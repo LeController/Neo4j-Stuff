@@ -149,4 +149,3 @@ QuestionId,studentId,courseId,tocheck,startRegistering,cleard,message,teacherId,
 99,90,72,9072,2021-07-26 00:23:02,2021-07-30 22:11:22,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,42,2021-07-30 22:11:22,null,TRUE
 36,153,9,1539,2021-07-26 13:18:12,2021-07-30 22:11:22,vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,6,2021-07-30 22:11:22,null,TRUE
 134,50,17,5017,2021-07-30 22:11:22,2021-08-17 09:11:48,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,23,2021-08-17 09:11:48,2021-08-20 15:52:45,TRUE
-,,,,,,,,,,
