@@ -1,0 +1,301 @@
+id,docType,title,createdAt,updatedAt,courseId
+1,Video,"Occlusion of Right Vas Deferens, Percutaneous Approach",2021-02-13 20:14:58,2021-07-28 08:33:26,88
+2,Presentation Slide,Beam Radiation of Diaphragm using Photons <1 MeV,2021-04-09 20:14:55,2021-07-08 17:28:37,46
+3,PDF file,"Supplement Left Lacrimal Duct with Synth Sub, Endo",2021-01-16 20:45:19,2021-06-21 13:10:26,52
+4,Presentation Slide,"Removal of Other Device from R Up Extrem, Extern Approach",2021-02-16 15:20:20,2021-03-17 01:44:26,55
+5,Video,"Insertion of Monitor Dev into R Lobe Liver, Perc Approach",2021-03-18 10:24:38,2021-06-06 12:42:32,89
+6,Video,"Supplement Right Maxilla with Nonaut Sub, Perc Approach",2021-03-09 22:07:54,2021-04-24 14:36:10,77
+7,PDF file,"Excision of Right Innominate Vein, Open Approach",2021-05-07 12:04:49,null,63
+8,Presentation Slide,"Removal of Nonaut Sub from Hepatobil Duct, Open Approach",2021-05-04 14:54:48,2021-06-13 17:18:11,34
+9,Presentation Slide,Oral Peripheral Mechanism Assessment using Other Equipment,2021-05-03 22:17:30,null,35
+10,podcast,"Repair Right Thyroid Artery, Open Approach",2021-03-09 22:07:54,2021-05-16 14:25:35,77
+11,Video,"Occlusion of L Main Bronc with Intralum Dev, Perc Approach",2021-02-03 01:34:35,2021-06-23 19:18:36,43
+12,PDF file,"Drainage of Abd Subcu/Fascia, Open Approach, Diagn",2021-05-03 22:17:30,2021-05-29 08:41:19,35
+13,Video,"Excision of Median Nerve, Percutaneous Endoscopic Approach",2021-05-25 01:11:12,null,16
+14,Presentation Slide,"Drainage of Thoracic Spinal Cord, Perc Endo Approach",2021-05-08 05:02:32,null,92
+15,Video,"Excision of Left Atrial Appendage, Percutaneous Approach",2021-02-03 01:34:35,null,43
+16,Presentation Slide,"Dilation of Right Parotid Duct, Open Approach",2021-01-30 05:35:52,2021-06-21 20:14:41,48
+17,Presentation Slide,"Drainage of Right Lower Lobe Bronchus, Percutaneous Approach",2021-04-19 07:12:36,null,28
+18,Presentation Slide,"Reposition Left Renal Artery, Perc Endo Approach",2021-03-21 19:25:39,null,85
+19,PDF file,"Fusion of R Sacroiliac Jt with Autol Sub, Perc Approach",2021-03-15 08:39:31,null,79
+20,Presentation Slide,"Bypass R Com Iliac Art to Low Ex Art w Nonaut Sub, Open",2021-02-06 16:54:06,2021-08-27 04:04:55,58
+21,podcast,"Excision of Gastric Artery, Percutaneous Endoscopic Approach",2021-03-18 10:24:38,2021-04-15 13:44:00,89
+22,Video,"Extraction of L Hand Bursa/Lig, Perc Endo Approach",2021-05-03 22:17:30,2021-05-04 14:54:48,35
+23,podcast,"Bypass Lower Esophagus to Stomach with Nonaut Sub, Endo",2021-03-30 21:56:45,2021-06-21 11:34:48,18
+24,Presentation Slide,"Dilate L Ulnar Art, Bifurc, w Drug-elut Intra, Perc Endo",2021-01-30 05:35:52,null,48
+25,PDF file,"Drainage of L Lg Intest with Drain Dev, Open Approach",2021-04-27 08:42:31,null,99
+26,Presentation Slide,"Insert of Infusion Dev into L Up Extrem, Perc Endo Approach",2021-04-10 21:45:06,2021-08-19 12:40:38,76
+27,Presentation Slide,"Dilate R Subclav Art w Drug-elut Intra, Perc Endo",2021-01-18 18:02:48,2021-08-27 04:04:55,64
+28,Presentation Slide,"Resection of Small Intestine, Endo",2021-03-29 06:23:47,null,84
+29,podcast,"Dilation of 3 Cor Art with 3 Intralum Dev, Perc Approach",2021-03-09 22:07:54,2021-07-08 17:28:37,59
+30,Video,"Excision of Right Foot Tendon, Perc Endo Approach, Diagn",2021-03-13 11:40:01,null,90
+31,PDF file,"Excision of Coccygeal Joint, Open Approach",2021-02-16 15:20:20,null,42
+32,PDF file,"Removal of Radioactive Element from R Lung, Perc Approach",2021-03-09 22:07:54,2021-08-29 00:01:52,82
+33,PDF file,"Release Right Lower Eyelid, External Approach",2021-02-03 01:34:35,2021-04-01 01:09:07,43
+34,PDF file,"Fragmentation in Gallbladder, Via Opening",2021-06-03 00:28:07,2021-06-09 04:08:57,56
+35,podcast,"Removal of Drain Dev from Low Intest Tract, Via Opening",2021-01-12 20:42:42,2021-04-24 07:57:37,23
+36,Video,"Removal of Synthetic Substitute from Urethra, Perc Approach",2021-05-12 08:03:17,2021-06-08 01:31:10,57
+37,podcast,"Alteration of Lower Lip with Nonaut Sub, Extern Approach",2021-04-10 21:45:06,2021-06-06 05:16:43,76
+38,podcast,"Bypass Bladder to Ileocutaneous, Open Approach",2021-03-14 21:20:44,2021-07-19 00:46:32,15
+39,Presentation Slide,"Division of R Shoulder Bursa/Lig, Perc Endo Approach",2021-04-21 23:30:56,2021-07-28 08:33:26,17
+40,PDF file,"Supplement Right Nipple with Nonaut Sub, Extern Approach",2021-03-26 02:33:04,null,41
+41,Video,"Removal of Infusion Device from Lum Disc, Perc Endo Approach",2021-05-04 04:43:53,2021-07-30 04:27:36,60
+42,Video,"Repair Left Metacarpal, External Approach",2021-05-20 19:10:43,2021-06-01 15:43:11,78
+43,Video,"Drainage of Parathyroid Gland, Open Approach, Diagnostic",2021-04-10 21:45:06,null,76
+44,Presentation Slide,"Replacement of Lower Lip with Nonaut Sub, Extern Approach",2021-02-13 03:38:49,2021-03-23 07:24:38,73
+45,podcast,"Resection of Thyroid Gland, Open Approach",2021-04-21 23:30:56,null,17
+46,PDF file,Stereotactic Particulate Radiosurgery of Bladder,2021-02-20 20:54:32,null,47
+47,Presentation Slide,"Extraction of Pelvic Subcu/Fascia, Perc Approach",2021-05-03 22:17:30,null,35
+48,Presentation Slide,"Removal of Ext Fix from L Metatarsal, Extern Approach",2021-02-03 01:34:35,2021-06-21 15:53:58,43
+49,podcast,"Supplement R Temporal Bone w Autol Sub, Perc Endo",2021-06-09 04:08:57,2021-06-13 17:18:11,80
+50,podcast,"Drainage of L Innom Vein with Drain Dev, Perc Approach",2021-06-13 17:18:11,null,21
+51,podcast,"Repair Female Reproductive System in POC, Perc Endo Approach",2021-03-25 05:15:44,2021-06-19 09:12:35,66
+52,PDF file,"Supplement Abd Wall with Nonaut Sub, Perc Endo Approach",2021-02-05 18:49:03,2021-04-27 10:07:07,49
+53,podcast,"Dilation of R Axilla Art with Drug-elut Intra, Perc Approach",2021-03-26 15:12:23,2021-08-25 10:17:08,87
+54,Video,"Extirpation of Matter from R Mastoid Sinus, Open Approach",2021-05-25 01:11:12,2021-06-13 17:18:11,16
+55,Video,"Revision of Int Fix in R Up Femur, Open Approach",2021-05-30 23:34:35,2021-07-08 16:20:23,7
+56,Presentation Slide,"Transfer Ant Neck Subcu/Fascia w Skin, Subcu, Fascia, Perc",2021-03-14 21:20:44,2021-06-06 00:58:34,15
+57,Video,"Removal of Autol Sub from Pancreat Duct, Perc Approach",2021-02-14 13:07:11,2021-04-30 11:42:35,81
+58,PDF file,Plain Radiography of Cervical Facet Joint(s),2021-04-04 19:08:10,2021-08-27 04:04:55,9
+59,PDF file,"Dilation of Sup Mesent Art with Intralum Dev, Perc Approach",2021-05-25 01:11:12,2021-07-30 04:33:53,16
+60,Video,"Reposition Occip Jt with Int Fix, Extern Approach",2021-03-09 22:07:54,2021-06-11 13:56:42,82
+61,PDF file,Beam Radiation of Ileum using Neutron Capture,2021-05-23 18:00:36,2021-07-28 08:33:26,74
+62,Video,"Dilate R Hand Art, Bifurc, w 3 Drug-elut, Open",2021-03-03 14:09:03,2021-06-03 16:58:57,29
+63,Presentation Slide,"Drainage of Pelvis Lymphatic, Open Approach, Diagnostic",2021-05-20 19:10:43,null,78
+64,podcast,"Bypass L Ext Iliac Art to R Ext Ilia w Synth Sub, Perc Endo",2021-02-05 18:49:03,2021-06-29 01:29:33,49
+65,PDF file,"Insert of Intralum Dev into Thor Aorta Desc, Open Approach",2021-05-19 01:15:11,2021-07-08 17:28:37,71
+66,Video,"Destruction of Hymen, Percutaneous Endoscopic Approach",2021-06-13 17:18:11,2021-07-08 17:28:37,21
+67,Presentation Slide,"Drainage of L Sternoclav Jt with Drain Dev, Open Approach",2021-03-21 19:25:39,2021-03-27 11:40:28,85
+68,Video,Nonimag Nucl Med Prob of Head & Neck using Oth Radionuclide,2021-02-16 15:20:20,2021-08-29 00:01:52,55
+69,podcast,"Revision of Drainage Device in Left Breast, Via Opening",2021-04-06 22:28:40,2021-08-26 01:01:08,38
+70,Presentation Slide,"Excision of Right Vertebral Vein, Perc Endo Approach",2021-05-04 04:43:53,null,60
+71,Presentation Slide,"Revision of Intralum Dev in Fallopian Tube, Via Opening",2021-03-20 19:57:20,null,11
+72,PDF file,"Replacement of L Ankle Tendon with Autol Sub, Open Approach",2021-04-12 11:20:28,null,25
+73,Presentation Slide,Fluoroscopy of Vagina using Low Osmolar Contrast,2021-04-26 10:03:15,2021-06-13 17:18:11,75
+74,Presentation Slide,"Restriction of Cystic Duct, Endo",2021-03-29 06:23:47,null,84
+75,PDF file,"Bypass Left Atrium to Right Pulmonary Artery, Open Approach",2021-04-19 07:12:36,2021-07-02 15:06:14,28
+76,Presentation Slide,"Upper Bones, Resection",2021-03-03 14:09:03,2021-08-27 04:04:55,29
+77,Video,"Excision of R Ext Auditory Canal, Perc Endo Approach",2021-01-16 20:45:19,null,52
+78,PDF file,"Revision of Autol Sub in R Pelvic Bone, Perc Approach",2021-01-16 20:45:19,null,52
+79,Presentation Slide,"Supplement Upper Back with Synth Sub, Perc Endo Approach",2021-02-07 15:53:12,2021-07-08 17:28:37,37
+80,Presentation Slide,"Insertion of Infusion Dev into L Up Arm, Perc Endo Approach",2021-04-19 07:12:36,2021-07-28 08:33:26,28
+81,Presentation Slide,"Lymphatic and Hemic Systems, Reposition",2021-04-19 07:12:36,2021-08-29 00:01:52,28
+82,podcast,"Drainage of Right Upper Leg Muscle, Open Approach",2021-02-07 15:53:12,null,37
+83,Presentation Slide,"Supplement Left Lower Eyelid with Nonaut Sub, Open Approach",2021-04-21 23:30:56,2021-08-27 04:04:55,17
+84,PDF file,"Extraction of Nasal Turbinate, Percutaneous Approach",2021-06-13 17:18:11,null,21
+85,Video,"Drainage of Buttock Skin, External Approach",2021-03-31 23:10:05,2021-04-30 06:52:33,44
+86,podcast,"Excision of Left Subclavian Artery, Percutaneous Approach",2021-05-29 14:32:47,2021-08-17 22:02:59,86
+87,podcast,"Reattachment of Right Thorax Muscle, Open Approach",2021-05-29 14:32:47,2021-08-15 00:04:19,86
+88,Video,"Reposition Left Lower Femur with Ring Ext Fix, Perc Approach",2021-03-31 21:15:24,null,13
+89,Presentation Slide,"Drainage of Right Inguinal Region, Percutaneous Approach",2021-01-30 05:35:52,2021-08-12 18:47:45,48
+90,PDF file,"Excision of Hepatic Artery, Perc Endo Approach, Diagn",2021-04-16 20:50:56,2021-06-03 03:40:40,70
+91,Video,"Extirpation of Matter from Left Pleura, Open Approach",2021-04-04 19:08:10,2021-04-26 10:03:15,9
+92,Presentation Slide,"Excision of Left Hip Muscle, Percutaneous Approach, Diagn",2021-04-17 17:47:22,null,91
+93,PDF file,"Drainage of L Femor Vein with Drain Dev, Perc Endo Approach",2021-05-08 05:02:32,null,92
+94,podcast,"Dilate L Int Carotid, Bifurc, w 4 Drug-elut, Perc Endo",2021-04-21 23:30:56,null,17
+95,podcast,"Insertion of Ext Fix into L Acetabulum, Perc Endo Approach",2021-02-16 15:20:20,null,68
+96,PDF file,"Drainage of Oculomotor Nerve, Perc Endo Approach",2021-06-13 17:18:11,null,21
+97,PDF file,"Dilation of Right Main Bronchus, Perc Endo Approach",2021-03-14 21:20:44,2021-08-23 13:18:00,15
+98,PDF file,"Removal of Synthetic Substitute from L Breast, Perc Approach",2021-04-07 00:36:59,null,45
+99,PDF file,"Extirpation of Matter from Left Metatarsal, Open Approach",2021-04-04 19:08:10,2021-06-02 12:51:04,9
+100,Video,"Extirpation of Matter from Cerv Disc, Perc Approach",2021-05-17 03:08:02,2021-08-10 01:07:38,22
+101,Video,"Supplement R Lacrimal Bone with Nonaut Sub, Perc Approach",2021-03-15 18:08:11,2021-08-24 03:13:31,4
+102,PDF file,"Dilation of Left Internal Carotid Artery, Perc Endo Approach",2021-06-05 23:46:28,2021-06-10 06:48:15,14
+103,podcast,"Insertion of Radioactive Element into Cervix, Perc Approach",2021-04-04 19:08:10,null,9
+104,Video,"Reposition Sacrococcygeal Jt w Int Fix, Perc Endo",2021-06-03 00:28:07,2021-08-29 00:01:52,56
+105,Presentation Slide,"Revision of Drain Dev in L Temporomandib Jt, Open Approach",2021-02-14 13:07:11,2021-08-25 10:17:08,81
+106,podcast,"Excision of Right Trunk Tendon, Open Approach, Diagnostic",2021-05-23 18:00:36,2021-05-23 23:45:17,74
+107,podcast,"Alteration of Left Upper Leg with Synth Sub, Perc Approach",2021-03-18 10:24:38,2021-08-29 00:01:52,89
+108,Presentation Slide,"Release Lingula Bronchus, Open Approach",2021-03-03 14:09:03,null,29
+109,Video,"Bypass Pancreat Duct to Sm Int w Intralum Dev, Open",2021-05-12 08:03:17,null,57
+110,Presentation Slide,"Removal of Infusion Device from Spleen, Open Approach",2021-01-01 18:33:21,null,10
+111,PDF file,"Insertion of Other Device into R Buttock, Perc Endo Approach",2021-04-21 23:30:56,2021-07-10 16:10:57,17
+112,Presentation Slide,"Supplement Left Knee Region with Nonaut Sub, Open Approach",2021-06-13 17:18:11,2021-08-21 20:58:56,21
+113,Presentation Slide,"Restrict Sup Mesent Art w Intralum Dev, Perc Endo",2021-05-23 18:00:36,2021-06-03 00:28:07,74
+114,podcast,"Restriction of Left Cephalic Vein, Perc Endo Approach",2021-06-03 00:28:07,null,56
+115,PDF file,"Bypass Common Bile Duct to Stomach, Perc Endo Approach",2021-01-16 20:45:19,null,5
+116,podcast,"Revision of Synthetic Substitute in L Auditory Ossicle, Endo",2021-05-19 01:15:11,2021-06-21 20:14:41,71
+117,PDF file,"Extirpation of Matter from L Verteb Art, Open Approach",2021-03-26 09:52:41,2021-05-14 17:01:02,3
+118,PDF file,"Dilate R Cephalic Vein w Intralum Dev, Perc Endo",2021-02-07 15:53:12,2021-08-27 15:27:20,37
+119,Video,"Repair Mitral Valve, Percutaneous Endoscopic Approach",2021-04-17 02:33:05,null,24
+120,podcast,"Drainage of Uterus with Drainage Device, Perc Endo Approach",2021-02-14 06:13:38,2021-08-06 03:10:17,30
+121,PDF file,Exercise Treatment of Neuro Up Back/UE using Orthosis,2021-04-21 23:30:56,null,17
+122,Presentation Slide,"Extracorporeal Therapies, Physiological Systems, Pheresis",2021-02-17 07:17:15,2021-06-01 15:43:11,26
+123,podcast,CT Scan of Abd Aorta using Intravasc Optic Cohere,2021-05-12 10:14:11,2021-08-27 04:04:55,72
+124,podcast,"Insert of Monitor Dev into R Diaphragm, Perc Endo Approach",2021-05-30 23:34:35,null,7
+125,podcast,Beam Radiation of Chest Wall using Heavy Particles,2021-05-23 18:00:36,null,74
+126,podcast,"Drainage of Right Thumb Phalanx, Perc Approach, Diagn",2021-02-16 15:20:20,2021-07-31 14:43:17,42
+127,Presentation Slide,"Bypass L Brach Art to Up Arm Vein w Synth Sub, Open",2021-04-07 00:36:59,2021-04-25 03:13:17,45
+128,podcast,"Revision of Int Fix in L Wrist Jt, Perc Endo Approach",2021-05-25 01:11:12,2021-06-03 00:28:07,16
+129,podcast,"Reposition Left Radius, Percutaneous Endoscopic Approach",2021-04-17 17:47:22,2021-06-03 00:28:07,91
+130,podcast,"Drainage of Right Mastoid Sinus, Perc Endo Approach, Diagn",2021-04-09 20:14:55,2021-08-29 00:01:52,46
+131,Presentation Slide,Plain Radiography of R Low Extrem Art using Oth Contrast,2021-03-13 10:23:33,2021-06-03 00:28:07,62
+132,PDF file,"Drainage of Right Hepatic Duct, Percutaneous Approach, Diagn",2021-04-07 00:36:59,2021-05-24 13:58:22,45
+133,PDF file,Removal of Bandage on Right Upper Arm,2021-03-26 02:33:04,2021-08-03 06:45:12,41
+134,PDF file,"Excision of Left Ovary, Perc Endo Approach, Diagn",2021-03-29 06:23:47,2021-04-07 05:32:37,84
+135,PDF file,"Drainage of Left Nipple, Open Approach, Diagnostic",2021-06-05 23:46:28,2021-06-07 20:50:14,14
+136,Video,"Revision of Synthetic Substitute in Urethra, Open Approach",2021-04-06 22:28:40,2021-08-25 20:49:49,38
+137,PDF file,"Insert of Int Fix into R Thumb Phalanx, Perc Endo Approach",2021-02-16 15:20:20,2021-08-06 13:16:20,68
+138,Presentation Slide,"Repair Thoracic Vertebral Disc, Open Approach",2021-03-29 06:23:47,null,84
+139,podcast,"Excision of Right Upper Arm Tendon, Percutaneous Approach",2021-03-21 19:25:39,null,85
+140,Video,"Excision of Nasopharynx, Perc Endo Approach, Diagn",2021-02-13 03:38:49,2021-07-08 17:28:37,73
+141,podcast,"Drainage of Left Face Vein, Perc Endo Approach, Diagn",2021-01-16 20:45:19,2021-07-28 11:23:04,6
+142,Video,"Occlusion of L Lg Intest with Extralum Dev, Open Approach",2021-03-18 10:24:38,2021-06-01 15:43:11,89
+143,podcast,"Measurement of Central Nervous Conductivity, Open Approach",2021-03-21 08:48:14,2021-07-19 04:15:03,65
+144,PDF file,"Revision of Ext Fix in R Toe Phalanx, Perc Endo Approach",2021-02-16 15:20:20,null,42
+145,PDF file,"Repair Bilateral Inguinal Region, Percutaneous Approach",2021-02-05 18:49:03,null,49
+146,podcast,Beam Radiation of Bile Ducts using Photons >10 MeV,2021-04-21 23:30:56,2021-08-27 04:04:55,17
+147,podcast,"Repair Left Metacarpocarpal Joint, Open Approach",2021-02-06 16:54:06,2021-07-09 17:30:12,58
+148,Video,"Removal of Radioactive Element from Face, External Approach",2021-04-19 07:12:36,2021-07-23 17:54:01,28
+149,podcast,"Excision of Tongue, Percutaneous Approach",2021-02-16 15:20:20,2021-08-18 10:16:26,68
+150,Presentation Slide,"Transfer Sciatic Nerve to Femoral Nerve, Open Approach",2021-05-04 14:54:48,2021-07-02 05:54:24,34
+151,PDF file,"Release Thymus, Percutaneous Endoscopic Approach",2021-02-03 01:34:35,null,43
+152,podcast,"Drainage of R Mandible with Drain Dev, Perc Endo Approach",2021-02-03 01:34:35,null,43
+153,Presentation Slide,"Destruction of Left Knee Joint, Percutaneous Approach",2021-02-05 18:49:03,2021-04-23 08:01:48,49
+154,PDF file,"Bypass Abd Aorta to R Renal A w Autol Vn, Perc Endo",2021-02-13 20:14:58,2021-08-27 04:04:55,88
+155,PDF file,"Restrict Int Mamm, L Lymph w Intralum Dev, Perc",2021-05-17 03:08:02,2021-06-13 23:45:37,22
+156,podcast,"Dilation of Right Lacrimal Duct with Intralum Dev, Endo",2021-03-27 07:40:08,null,12
+157,Video,"Alteration of L Up Leg Subcu/Fascia, Open Approach",2021-04-07 00:36:59,2021-07-27 08:42:40,45
+158,Presentation Slide,"Extirpate matter from Mid Colic Art, Bifurc, Open",2021-04-17 17:47:22,null,91
+159,Video,"Extirpate matter from R Com Carotid, Bifurc, Open",2021-03-13 11:40:01,2021-07-08 05:26:38,90
+160,Presentation Slide,"Removal of Infusion Device from T-lum Disc, Perc Approach",2021-02-17 07:17:15,2021-08-10 01:28:53,26
+161,podcast,"Supplement L Zygomatic Bone w Autol Sub, Perc Endo",2021-04-27 08:42:31,null,99
+162,podcast,"Fusion of L Metatarsophal Jt with Autol Sub, Open Approach",2021-02-16 15:20:20,2021-05-21 23:31:37,68
+163,Video,"Drainage of Left Sphenoid Sinus, Perc Approach, Diagn",2021-02-13 20:14:58,2021-07-14 00:17:02,88
+164,Video,"Revision of Autol Sub in Cranial Nrv, Extern Approach",2021-05-25 18:31:26,null,27
+165,podcast,"Supplement L Ethmoid Bone with Synth Sub, Perc Endo Approach",2021-01-19 15:07:57,2021-07-04 08:39:27,94
+166,PDF file,"Pheresis of Cord Blood Stem Cells, Single",2021-02-16 15:20:20,2021-07-20 08:17:40,55
+167,PDF file,"Insert of Infusion Dev into R Sacroiliac Jt, Perc Approach",2021-03-07 07:12:57,null,100
+168,Video,"Restrict of L Int Mamm Art with Extralum Dev, Perc Approach",2021-03-31 23:10:05,null,44
+169,Video,"Excision of Left Upper Arm, Open Approach",2021-02-10 19:58:32,null,97
+170,Video,"Replacement of Left Breast with Autol Sub, Perc Approach",2021-05-29 14:32:47,null,86
+171,Video,Radiography of Cereb & Cerebel Vein using L Osm Contrast,2021-06-05 23:46:28,2021-08-06 20:30:48,14
+172,Presentation Slide,Fluoroscopy of Left Pulmonary Vein using Other Contrast,2021-03-21 08:48:14,null,65
+173,Video,"Excision of Left Hepatic Duct, Endo, Diagn",2021-04-10 23:18:21,2021-08-18 18:26:48,53
+174,PDF file,"Restriction of Left Main Bronchus, Open Approach",2021-02-14 06:13:38,2021-06-24 08:16:58,30
+175,Video,"Drain of R Low Leg Tendon with Drain Dev, Perc Endo Approach",2021-01-18 18:02:48,2021-03-29 03:52:05,64
+176,PDF file,"Inspection of Upper Vein, Percutaneous Endoscopic Approach",2021-04-06 22:28:40,null,38
+177,PDF file,Plain Radiography of R Parotid Gland using H Osm Contrast,2021-04-09 20:14:55,2021-08-13 21:46:02,46
+178,Video,"Replacement of Right Inner Ear with Autol Sub, Open Approach",2021-04-10 23:18:21,null,53
+179,Video,"Bypass R Great Saphenous to Low Vein, Open Approach",2021-02-17 07:17:15,2021-08-29 05:08:50,26
+180,PDF file,"Fusion L Metacarpophal Jt w Synth Sub, Perc Endo",2021-04-26 10:03:15,2021-08-25 10:17:08,75
+181,PDF file,"Replace of R Com Carotid with Synth Sub, Perc Endo Approach",2021-04-17 17:47:22,2021-07-27 04:21:21,91
+182,podcast,"Extraction of R Ankle Bursa/Lig, Perc Endo Approach",2021-03-26 15:12:23,2021-08-20 00:17:51,87
+183,PDF file,"Insertion of Infusion Dev into Scrotum & Tunica, Via Opening",2021-01-16 20:45:19,null,6
+184,PDF file,"Excision of Left Upper Leg, Perc Endo Approach, Diagn",2021-01-01 18:33:21,2021-08-29 00:01:52,10
+185,PDF file,"Replace of L Shoulder Tendon with Nonaut Sub, Open Approach",2021-04-04 19:08:10,null,9
+186,podcast,Exercise Trmt Circ Up Back/UE w Aerobic Equip,2021-02-16 15:20:20,2021-08-27 04:04:55,20
+187,Presentation Slide,"Bypass Duodenum to Jejunum w Synth Sub, Perc Endo",2021-05-25 01:11:12,2021-06-17 02:29:08,16
+188,Video,"Dilation of L Colic Art with 2 Drug-elut, Perc Endo Approach",2021-01-11 00:54:13,2021-08-02 15:46:13,19
+189,Video,"Replacement of R Maxilla with Autol Sub, Perc Endo Approach",2021-05-25 18:31:26,null,27
+190,podcast,"Dilate R Ulnar Art, Bifurc, w 2 Drug-elut, Perc Endo",2021-04-21 09:33:30,2021-08-05 08:01:32,31
+191,podcast,Fluoroscopy of Duodenum,2021-03-27 07:40:08,2021-08-04 09:53:59,12
+192,PDF file,"Reposition Right Spermatic Cord, Open Approach",2021-03-31 23:10:05,2021-06-21 08:14:36,44
+193,podcast,"Drainage of Right Peroneal Artery, Perc Endo Approach",2021-05-07 12:04:49,2021-08-07 23:35:55,63
+194,Presentation Slide,"Supplement L Ext Jugular Vein with Autol Sub, Open Approach",2021-04-27 08:42:31,2021-07-28 08:33:26,99
+195,Video,"Occlusion of Transverse Colon, Endo",2021-05-30 23:34:35,2021-08-22 07:31:33,7
+196,Video,"Drainage of Right Innominate Vein, Perc Endo Approach",2021-03-31 06:47:05,null,96
+197,PDF file,"Drainage of Bilateral Breast, External Approach",2021-04-10 21:45:06,null,76
+198,PDF file,"Supplement Left Femoral Artery with Autol Sub, Perc Approach",2021-03-26 15:12:23,2021-04-18 04:18:23,87
+199,PDF file,"Detachment at Right Upper Arm, Mid, Open Approach",2021-03-02 03:52:20,null,95
+200,PDF file,"Bypass L Ventricle to L Pulm Art w Zooplastic, Open",2021-01-16 20:45:19,null,67
+201,PDF file,"Control Bleeding in Respiratory Tract, Via Opening",2021-01-16 20:45:19,null,5
+202,PDF file,"Insertion of Intralum Dev into R Hand Art, Open Approach",2021-04-17 02:33:05,2021-08-25 10:17:08,24
+203,Presentation Slide,"Drainage of T-lum Disc with Drain Dev, Perc Approach",2021-01-01 18:33:21,2021-08-14 05:11:11,10
+204,Presentation Slide,"Insert Intralum Dev in L Ext Jugular Vein, Open",2021-02-13 20:14:58,null,88
+205,PDF file,"Release Cul-de-sac, Endo",2021-02-16 15:20:20,2021-07-26 03:11:11,55
+206,Video,"Bursae and Ligaments, Extraction",2021-05-07 12:04:49,2021-05-29 14:32:47,63
+207,PDF file,"Bypass R Vas Deferens to R Epidid w Autol Sub, Open",2021-05-05 18:49:58,2021-08-29 00:01:52,51
+208,Presentation Slide,"Insertion of Intralum Dev into Intracran Art, Perc Approach",2021-05-12 08:03:17,null,57
+209,PDF file,"Bypass Hemiazygos Vein to Upper Vein, Open Approach",2021-03-09 22:07:54,2021-08-27 04:04:55,59
+210,Presentation Slide,"Release Left Face Vein, Percutaneous Approach",2021-01-12 20:42:42,2021-07-06 11:40:49,23
+211,PDF file,"Extraction of Optic Nerve, Open Approach",2021-05-30 23:34:35,null,7
+212,podcast,"Supplement R Frontal Bone with Autol Sub, Perc Endo Approach",2021-02-07 15:53:12,null,37
+213,PDF file,"Transfusion of Nonaut Platelets into POC, Circ, Via Opening",2021-01-17 07:42:53,2021-06-16 05:02:16,2
+214,PDF file,"Insertion of Ring Ext Fix into R Ulna, Perc Approach",2021-04-10 21:45:06,2021-05-18 02:22:57,76
+215,PDF file,"Revision of Nonaut Sub in Great Vessel, Perc Endo Approach",2021-01-17 07:42:53,null,2
+216,PDF file,"Revision of Infusion Device in L Up Extrem, Open Approach",2021-03-26 02:33:04,2021-07-29 14:32:51,41
+217,podcast,Planar Nucl Med Imag of L Breast using Technetium 99m,2021-03-15 18:08:11,null,4
+218,podcast,"Revise of Infusion Pump in Trunk Subcu/Fascia, Perc Approach",2021-05-05 18:49:58,null,51
+219,podcast,"Alteration of Abdominal Wall with Nonaut Sub, Open Approach",2021-02-13 20:14:58,null,88
+220,Video,Tomo Nucl Med Imag of Chest & Neck using Technetium 99m,2021-04-10 21:45:06,2021-07-27 03:26:54,76
+221,Presentation Slide,"Bypass Hemiazygos Vein to Up Vein w Autol Vn, Open",2021-03-20 19:57:20,2021-06-21 20:14:41,11
+222,Presentation Slide,"Revision of Infusion Device in Lower Vein, External Approach",2021-04-13 00:38:02,null,61
+223,podcast,"Excision of Left Popliteal Artery, Perc Endo Approach, Diagn",2021-05-25 18:31:26,null,27
+224,Presentation Slide,"Control Bleeding in Upper Jaw, Percutaneous Approach",2021-04-13 00:38:02,2021-08-03 20:43:30,61
+225,Presentation Slide,"Dilate R Radial Art, Bifurc, w 3 Intralum Dev, Perc",2021-03-09 22:07:54,2021-07-22 13:52:00,59
+226,podcast,"Destruction of Hepatic Artery, Open Approach",2021-04-17 17:47:22,2021-05-21 21:14:04,91
+227,Video,"Release Right Wrist Joint, Open Approach",2021-04-04 19:08:10,2021-06-07 02:20:40,9
+228,Video,"Repair Right Lung, Percutaneous Endoscopic Approach",2021-02-16 15:20:20,2021-08-21 03:54:58,20
+229,podcast,"Excision of Right Mastoid Sinus, Percutaneous Approach",2021-03-09 22:07:54,null,82
+230,Presentation Slide,"Insertion of Other Device into Abdominal Wall, Perc Approach",2021-04-21 23:30:56,2021-06-28 01:54:38,17
+231,Presentation Slide,"Excision of Right Ureter, Endo",2021-05-04 14:54:48,2021-07-11 13:57:21,34
+232,PDF file,"Dilation of Right Subclavian Artery, Bifurc, Open Approach",2021-06-13 17:18:11,2021-08-25 10:17:08,21
+233,podcast,"Drainage of Left Maxilla, Percutaneous Approach",2021-05-19 01:15:11,2021-06-12 02:52:16,71
+234,PDF file,"Remove Nonaut Sub from Head & Neck Subcu/Fascia, Perc",2021-05-29 14:32:47,2021-06-03 00:28:07,86
+235,Video,"Bypass Hepatic Vein to Low Vein w Autol Art, Perc Endo",2021-03-30 21:56:45,2021-08-15 08:17:17,18
+236,PDF file,"Destruction of Left Lower Leg Tendon, Open Approach",2021-04-19 07:12:36,null,28
+237,PDF file,"Replace L Foot Skin w Nonaut Sub, Part Thick, Extern",2021-01-16 20:45:19,null,52
+238,Video,"Transfer Left Hip Tendon, Open Approach",2021-01-11 00:54:13,null,19
+239,Video,"Drainage of Left Lacrimal Duct, Open Approach",2021-03-09 19:24:26,null,33
+240,Presentation Slide,"Remove of Infusion Dev from R Sacroiliac Jt, Extern Approach",2021-03-07 07:12:57,2021-08-28 07:53:24,100
+241,Video,"Change Drainage Device in Abdominal Wall, External Approach",2021-01-17 07:42:53,2021-07-28 08:33:26,2
+242,Presentation Slide,Hyperthermia of Trachea,2021-04-09 20:14:55,null,46
+243,Video,"Insertion of Spacer into L Temporomandib Jt, Perc Approach",2021-04-19 07:12:36,null,28
+244,Presentation Slide,"Excision of Large Intestine, Endo",2021-02-16 15:20:20,2021-06-03 09:24:12,55
+245,Presentation Slide,"Insert Intspin Prcs Stabl Dev in Lum Jt, Perc Endo",2021-03-09 19:24:26,2021-06-21 20:14:41,33
+246,Presentation Slide,"Bypass Ascending Colon to Trans Colon, Perc Endo Approach",2021-02-14 06:13:38,2021-07-08 17:28:37,30
+247,Presentation Slide,"Repair Ileum, Percutaneous Approach",2021-03-29 19:03:00,null,40
+248,PDF file,"Fluoroscopy of Aorta, Bi LE Art using L Osm Contrast",2021-05-05 18:49:58,2021-08-16 18:59:41,51
+249,podcast,"Bypass R Vas Deferens to R Vas Def w Autol Sub, Open",2021-03-14 21:20:44,2021-07-28 08:33:26,15
+250,PDF file,"Replacement of Left Vocal Cord with Nonaut Sub, Endo",2021-03-20 19:57:20,2021-07-04 11:42:08,11
+251,podcast,"Control Bleeding in Left Ankle Region, Percutaneous Approach",2021-02-20 20:54:32,null,47
+252,podcast,"Restrict L Foot Vein w Extralum Dev, Perc Endo",2021-05-07 12:04:49,null,63
+253,podcast,"Insertion of Other Device into GI Tract, Perc Endo Approach",2021-03-30 21:56:45,2021-07-10 21:10:26,18
+254,podcast,"Drainage of Left Tibia with Drainage Device, Perc Approach",2021-03-09 22:07:54,2021-08-12 08:45:58,82
+255,podcast,"Occlusion R Low Extrem Lymph w Intralum Dev, Perc",2021-04-14 08:12:02,2021-05-04 20:27:32,69
+256,podcast,"Supplement Upper Back with Nonaut Sub, Open Approach",2021-06-03 00:28:07,2021-06-20 19:22:34,56
+257,Video,"CT Scan Port/Splanch Vein w Oth Contrast, Unenh, Enhance",2021-05-31 20:21:26,2021-07-06 20:41:30,98
+258,podcast,MRI of L Shoulder using Oth Contrast,2021-06-03 00:28:07,null,56
+259,Presentation Slide,"Excision of Right Thumb Phalanx, Open Approach, Diagnostic",2021-04-21 23:30:56,2021-06-19 08:56:42,17
+260,podcast,"Destruction of Bilateral Breast, Endo",2021-01-17 07:42:53,2021-07-08 12:01:43,2
+261,podcast,"Transfuse Nonaut Frozen Red Cells in Periph Art, Open",2021-05-25 18:31:26,2021-07-26 22:09:55,27
+262,PDF file,"Insert of Oth Dev into Retroperitoneum, Perc Endo Approach",2021-01-18 18:02:48,2021-08-06 09:25:35,64
+263,Presentation Slide,"Excision of Left Lower Leg Tendon, Open Approach",2021-03-09 22:07:54,2021-08-21 16:23:37,82
+264,podcast,"Drainage of Lumbar Vertebra with Drain Dev, Open Approach",2021-01-21 01:03:47,null,36
+265,podcast,"Repair Left Trunk Muscle, Open Approach",2021-04-19 07:12:36,2021-06-06 12:42:32,28
+266,PDF file,"Excision of Head Neck Symp Nrv, Perc Endo Approach",2021-04-17 17:47:22,2021-05-29 14:32:47,91
+267,Presentation Slide,"Revision of Drainage Device in Thor Jt, Open Approach",2021-04-17 17:47:22,2021-08-27 04:04:55,91
+268,PDF file,"Extirpation of Matter from Mid Colic Art, Open Approach",2021-03-29 19:03:00,null,40
+269,Presentation Slide,"Replacement of Left Orbit with Nonaut Sub, Open Approach",2021-03-02 03:52:20,2021-08-24 00:20:30,95
+270,Video,"Excision of Right Upper Leg Tendon, Perc Approach, Diagn",2021-03-31 23:10:05,null,44
+271,Video,"Revision of Nonaut Sub in L Elbow Jt, Perc Endo Approach",2021-01-12 20:42:42,2021-07-28 08:33:26,23
+272,podcast,"Excision of Bilateral Adrenal Glands, Percutaneous Approach",2021-03-13 10:23:33,null,62
+273,PDF file,"Repair Cardiovascular Sys in POC w Oth Dev, Perc Endo",2021-03-15 18:08:11,2021-07-15 01:43:38,4
+274,PDF file,"Extirpation of Matter from Sacral Plexus, Open Approach",2021-01-19 15:07:57,null,94
+275,Video,"Bypass L Pulm Art from Carotid w Zooplastic, Open",2021-03-26 15:12:23,2021-08-03 02:58:20,87
+276,PDF file,"Bypass 2 Cor Art from R Int Mammary w Autol Vn, Open",2021-01-16 20:45:19,2021-08-25 10:17:08,52
+277,Presentation Slide,"Extirpation of Matter from Gastric Artery, Open Approach",2021-03-09 22:07:54,2021-08-24 14:34:11,82
+278,podcast,"Extirpation of Matter from Nasal Septum, Open Approach",2021-03-09 22:07:54,2021-05-25 01:11:12,59
+279,Presentation Slide,"Supplement Right Thorax Muscle with Synth Sub, Open Approach",2021-01-01 18:33:21,2021-07-01 13:52:24,10
+280,PDF file,"Supplement L Trunk Tendon w Nonaut Sub, Perc Endo",2021-03-09 22:07:54,2021-04-13 01:39:04,77
+281,PDF file,"Insertion of Ext Fix into L Radius, Perc Approach",2021-05-25 01:11:12,2021-05-29 14:32:47,16
+282,podcast,"Drainage of Left Wrist Joint, Perc Endo Approach",2021-05-31 20:21:26,null,98
+283,Presentation Slide,"Extirpation of Matter from Right Epididymis, Open Approach",2021-01-11 00:54:13,null,19
+284,PDF file,"Dilation of Left Pulmonary Artery, Percutaneous Approach",2021-03-09 22:07:54,2021-06-17 14:36:53,54
+285,PDF file,"Bypass 4+ Cor Art from L Int Mammary w Autol Art, Open",2021-02-16 15:20:20,null,42
+286,Video,"Bypass Inf Vena Cava to Inf Mesent V w Autol Sub, Perc Endo",2021-02-03 01:34:35,2021-08-30 23:53:30,43
+287,PDF file,"MRI of R Low Leg using Oth Contrast, Unenh, Enhance",2021-02-16 15:20:20,null,55
+288,PDF file,"Drainage of Bi Ovary with Drain Dev, Perc Endo Approach",2021-05-12 08:03:17,2021-05-27 02:56:40,57
+289,Video,"Bypass Jejunum to Cecum with Synthetic Substitute, Endo",2021-03-09 22:07:54,2021-07-12 19:04:00,82
+290,PDF file,"Reposition Right Internal Iliac Artery, Perc Endo Approach",2021-03-30 21:56:45,null,18
+291,Presentation Slide,MRI of R Femur using Oth Contrast,2021-01-19 10:15:46,2021-07-28 08:33:26,8
+292,Video,"Introduce Monoclonal Antibody in Bone Marrow, Perc",2021-04-26 10:03:15,null,75
+293,podcast,"Replace of L Hand Vein with Synth Sub, Perc Endo Approach",2021-04-14 08:12:02,2021-06-21 20:14:41,69
+294,Video,"Supplement Left Lacrimal Duct with Synth Sub, Perc Approach",2021-03-13 11:40:01,2021-07-05 14:41:30,90
+295,Video,"Drainage of Right Kidney Pelvis, Via Opening, Diagn",2021-03-03 14:09:03,2021-06-25 23:30:02,29
+296,Video,"Replacement of Left Orbit with Autol Sub, Perc Endo Approach",2021-03-21 19:25:39,2021-07-08 17:28:37,85
+297,Video,"Gastrointestinal System, Change",2021-04-19 07:12:36,2021-06-21 14:27:29,28
+298,Video,"Supplement R Shoulder with Synth Sub, Perc Endo Approach",2021-03-31 21:15:24,2021-08-29 00:01:52,13
+299,Presentation Slide,"Occlusion of Right Renal Artery, Percutaneous Approach",2021-01-16 20:45:19,2021-06-25 07:21:03,6
+300,Presentation Slide,"Detachment at Right Index Finger, Mid, Open Approach",2021-04-10 23:18:21,null,53

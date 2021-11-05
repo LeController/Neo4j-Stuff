@@ -1,0 +1,201 @@
+assignmentId,title,createdAt,updatedAt,courseId
+1,"Revision of Infusion Device in GU Tract, Perc Endo Approach","2021-03-21 08:48:14","2021-04-09 00:03:54",65
+2,"Change Other Device in Upper Joint, External Approach","2021-03-09 22:07:54","2021-06-07 14:11:55",59
+3,"Division of Bladder Neck, Percutaneous Approach","2021-05-03 04:43:42",NULL,50
+4,Hypnosis,"2021-04-21 23:30:56",NULL,17
+5,"Dilate R Ulnar Art w 2 Intralum Dev, Perc Endo","2021-06-13 17:18:11",NULL,21
+6,"Reposition Left Diaphragm, Open Approach","2021-01-11 06:49:19","2021-05-28 14:45:38",1
+7,"Occlusion of Left Fallopian Tube, Via Opening","2021-02-16 15:20:20","2021-05-28 14:18:07",20
+8,"Beam Radiation of Pleura using Electrons, Intraoperative","2021-03-21 08:48:14","2021-04-09 00:03:54",65
+9,"Bypass L Renal Vein to Low Vein w Autol Art, Perc Endo","2021-05-04 04:43:53","2021-05-15 03:43:54",60
+10,"Revision of Drainage Device in Vas Deferens, Via Opening","2021-03-27 07:40:08","2021-04-24 08:34:14",12
+11,"Drainage of Cystic Duct with Drainage Device, Open Approach","2021-01-11 06:49:19","2021-05-28 14:45:38",1
+12,"Supplement Ileocecal Valve w Synth Sub, Perc Endo","2021-02-13 20:14:58",NULL,88
+13,"Bypass L Renal Vein to Low Vein w Synth Sub, Open","2021-01-21 01:03:47",NULL,36
+14,"Drainage of Left Hand Bursa and Ligament, Perc Endo Approach","2021-02-14 04:10:07","2021-03-16 00:54:45",39
+15,"Removal of Int Fix from L Ulna, Extern Approach","2021-03-26 09:52:41",NULL,3
+16,"Fluoroscopy of Ileal Diversion Loop using Other Contrast","2021-01-19 15:07:57","2021-03-07 09:09:08",94
+17,"Laser Interstitial Thermal Therapy of Brain","2021-02-14 04:10:07","2021-03-16 00:54:45",39
+18,"Supplement Sup Mesent Vein w Autol Sub, Perc Endo","2021-01-01 18:33:21",NULL,10
+19,"Remove of Infusion Dev from Pericard Cav, Perc Endo Approach","2021-05-05 18:49:58","2021-05-17 19:15:01",51
+20,"Removal of Contraceptive Device from Uterus and Cervix, Endo","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+21,"Removal of Nonaut Sub from Neck, Open Approach","2021-02-13 03:38:49","2021-04-09 00:03:54",73
+22,"Introduce of Oth Therap Subst into Male Reprod, Via Opening","2021-05-05 18:49:58","2021-05-17 19:15:01",51
+23,"Release Hard Palate, Percutaneous Approach","2021-03-09 22:07:54",NULL,54
+24,"Removal of Nonaut Sub from Penis, Via Opening","2021-03-27 07:40:08","2021-04-24 08:34:14",12
+25,"Reposition Thor Jt with Int Fix, Perc Approach","2021-01-17 07:42:53",NULL,2
+26,"Replacement of Right Carpal with Nonaut Sub, Perc Approach","2021-02-16 15:20:20",NULL,55
+27,"Radiation Therapy, Lymph & Hemat Sys, Oth Radiation","2021-02-14 13:07:11",NULL,81
+28,"Bypass Transverse Colon to Trans Colon with Synth Sub, Endo","2021-03-15 18:08:11",NULL,4
+29,"Excision of Left Vocal Cord, Percutaneous Approach","2021-03-09 22:07:54",NULL,59
+30,"Removal of Synth Sub from L Pleural Cav, Perc Approach","2021-05-04 14:54:48","2021-06-05 14:34:14",34
+31,"Excision of Sacrum, Percutaneous Approach","2021-06-03 00:28:07","2021-06-07 14:11:55",56
+32,"Removal of Monitor Dev from Cranial Nrv, Perc Endo Approach","2021-02-14 13:07:11",NULL,81
+33,"Supplement Left Zygomatic Bone with Synth Sub, Perc Approach","2021-05-05 18:49:58","2021-05-17 19:15:01",51
+34,"Inspection of Left Lower Leg, Perc Endo Approach","2021-02-16 15:20:20","2021-05-28 14:18:07",20
+35,"Insertion of Radioact Elem into L Low Arm, Open Approach","2021-04-27 08:42:31","2021-05-01 14:56:49",99
+36,"Replacement of Nasal Turbinate with Autol Sub, Perc Approach","2021-02-20 20:54:32","2021-04-08 13:29:33",47
+37,"Bypass R Ext Iliac Art to L Int Ilia, Open Approach","2021-05-25 01:11:12","2021-06-10 01:07:19",16
+38,"Monaural Hear Aid Check Assessment using Hear Aid Equipment","2021-05-03 22:17:30",NULL,35
+39,"Restriction of Cystic Duct, Percutaneous Endoscopic Approach","2021-05-25 18:31:26",NULL,27
+40,"Release Innominate Artery, Open Approach","2021-03-09 22:07:54",NULL,59
+41,"Remove of Infusion Dev from Pericard Cav, Perc Endo Approach","2021-01-16 20:45:19","2021-02-05 14:19:40",52
+42,Acupuncture,"2021-05-25 18:31:26",NULL,27
+43,"Revision of Ext Fix in L Toe Phalanx Jt, Perc Endo Approach","2021-05-30 23:34:35","2021-06-09 04:53:00",7
+44,"Drainage of L Metatarsotars Jt with Drain Dev, Open Approach","2021-02-16 15:20:20","2021-04-02 11:31:21",68
+45,"Repair Right Metatarsal-Phalangeal Joint, Perc Approach","2021-05-08 05:02:32",NULL,92
+46,"Introduction of Oth Anti-infect into Lymph, Perc Approach","2021-01-16 20:45:19",NULL,67
+47,"LDR Brachytherapy of R Breast using Oth Isotope","2021-03-09 22:07:54","2021-03-19 06:38:42",77
+48,"Removal of Drainage Device from Periph Nrv, Perc Approach","2021-03-31 06:47:05",NULL,96
+49,"Revision of Infusion Device in R Ankle Jt, Perc Approach","2021-03-30 21:56:45","2021-05-14 09:41:17",18
+50,"Removal of Drainage Device from Left Breast, Open Approach","2021-03-21 19:25:39","2021-03-25 20:31:36",85
+51,"Revision of Autol Sub in Occip Jt, Extern Approach","2021-05-19 01:15:11","2021-06-21 13:30:10",71
+52,"Drainage of Right Spermatic Cord, Perc Approach, Diagn","2021-03-31 06:47:05",NULL,96
+53,"Excision of Left Thorax Bursa and Ligament, Perc Approach","2021-03-26 02:33:04","2021-06-09 04:53:00",41
+54,"Excision of Conduction Mechanism, Open Approach, Diagnostic","2021-01-16 20:45:19",NULL,5
+55,"Removal of Radioactive Element from Pleura, Endo","2021-05-04 14:54:48","2021-06-05 14:34:14",34
+56,"Drainage of Sigmoid Colon with Drain Dev, Perc Approach","2021-03-07 07:12:57",NULL,100
+57,"Lower Bones, Extirpation","2021-03-31 23:10:05",NULL,44
+58,"Introduction of Pigment into Eye, External Approach","2021-02-14 06:13:38","2021-03-16 00:54:45",30
+59,"Dilate L Popl Art w Drug-elut Intra, Drug Blln, Perc","2021-03-21 08:48:14","2021-04-09 00:03:54",65
+60,"Supplement Vagina with Autologous Tissue Substitute, Endo","2021-05-25 01:11:12",NULL,16
+61,"Fragmentation in Stomach, Open Approach","2021-04-04 19:08:10","2021-06-30 21:58:01",9
+62,"Insert of Infusion Dev into Mediastinum, Perc Endo Approach","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+63,"Measurement of Urinary Resistance, Via Opening","2021-02-10 19:58:32","2021-05-28 14:45:38",97
+64,"Bypass R Vas Deferens to R Epidid w Nonaut Sub, Open","2021-01-17 07:42:53",NULL,2
+65,"Occlusion of Right Face Vein, Open Approach","2021-05-17 03:08:02",NULL,22
+66,"Removal of Drain Dev from Retroperitoneum, Extern Approach","2021-02-16 15:20:20","2021-05-28 14:18:07",20
+67,"Bypass Right Innominate Vein to Upper Vein, Open Approach","2021-01-30 05:35:52",NULL,48
+68,"Repair Acoustic Nerve, Percutaneous Approach","2021-02-13 03:38:49","2021-04-09 00:03:54",73
+69,"Extirpation of Matter from R Low Lobe Bronc, Open Approach","2021-01-18 18:02:48",NULL,64
+70,"Occlusion Bi Vas Deferens w Extralum Dev, Perc Endo","2021-03-13 10:23:33",NULL,62
+71,"Alteration of Right Ankle Region, Open Approach","2021-04-17 17:47:22","2021-06-28 00:29:35",91
+72,"Removal of Nonaut Sub from Up Jaw, Perc Endo Approach","2021-04-13 00:38:02","2021-05-12 03:37:04",61
+73,"Fluoroscopy Oth Up Art w L Osm Contrast, Laser Intraop","2021-01-16 20:45:19",NULL,67
+74,"Ear, Nose, Sinus, Dilation","2021-03-09 22:07:54",NULL,54
+75,"Removal of Nonaut Sub from Peritoneum, Open Approach","2021-02-03 01:34:35","2021-06-06 16:33:37",43
+76,"Fusion C-thor Jt w Intbd Fus Dev, Post Appr P Col, Open","2021-05-23 18:00:36",NULL,74
+77,"Fluoroscopy of L Temporomand Jt using Oth Contrast","2021-04-06 22:28:40","2021-05-17 19:15:01",38
+78,"Destruction of Right External Iliac Artery, Perc Approach","2021-03-21 19:25:39","2021-03-25 20:31:36",85
+79,"Removal of Autol Sub from L Ear, Via Opening","2021-01-01 18:33:21",NULL,10
+80,"Removal of Autol Sub from Up Tendon, Perc Approach","2021-03-07 07:12:57",NULL,100
+81,"Destruction of Right Choroid, Open Approach","2021-05-23 18:00:36",NULL,74
+82,"Introduction of Destr Agent into Male Reprod, Perc Approach","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+83,"Drainage of Head Muscle, Percutaneous Endoscopic Approach","2021-03-31 23:10:05",NULL,44
+84,"Supplement Inferior Vena Cava with Autol Sub, Open Approach","2021-04-27 08:42:31","2021-05-01 14:56:49",99
+85,"Fusion of >7 T Jt, Post Appr A Col, Perc Approach","2021-02-16 15:20:20","2021-04-02 11:31:21",68
+86,"Dilation of L Verteb Art with 4 Drug-elut, Perc Approach","2021-05-17 03:08:02",NULL,22
+87,"Detachment at Right 3rd Toe, Mid, Open Approach","2021-01-19 10:15:46",NULL,8
+88,"Plain Radiography of Bi Renal Vein using Oth Contrast","2021-02-20 20:54:32","2021-04-08 13:29:33",47
+89,"Alteration of L Up Arm Subcu/Fascia, Open Approach","2021-05-07 12:04:49",NULL,63
+90,"Phonet Bal Speech Discrim Assessment","2021-05-08 05:02:32",NULL,92
+91,"Occlusion of Lingula Bronchus, Perc Endo Approach","2021-03-07 07:12:57","2021-03-25 07:35:07",100
+92,"Resection of Scrotum, External Approach","2021-03-09 22:07:54","2021-03-19 06:38:42",77
+93,"Revision of Monitoring Device in Pancreas, External Approach","2021-05-31 20:21:26","2021-06-09 15:02:11",98
+94,"Insertion of Infusion Dev into Mid Colic Art, Open Approach","2021-04-17 02:33:05","2021-06-17 23:15:05",24
+95,"Extirpate of Matter from Oculomotor Nrv, Perc Endo Approach","2021-04-04 19:08:10","2021-06-30 21:58:01",9
+96,"Revision of Autol Sub in L Ulna, Extern Approach","2021-05-30 23:34:35","2021-06-09 04:53:00",7
+97,"Revision of Autol Sub in Cisterna Chyli, Extern Approach","2021-04-07 00:36:59","2021-05-12 03:37:04",45
+98,"Excision of Lumbar Nerve, Percutaneous Endoscopic Approach","2021-06-09 04:08:57",NULL,80
+99,"Inspection of Left Metacarpocarpal Joint, Perc Endo Approach","2021-05-03 22:17:30",NULL,35
+100,"Excision of Right Brachial Artery, Percutaneous Approach","2021-04-14 08:12:02",NULL,69
+101,"Removal of Intralum Dev from Vas Deferens, Open Approach","2021-04-26 10:03:15",NULL,75
+102,"Excision of Left Lobe Liver, Open Approach, Diagnostic","2021-05-17 03:08:02","2021-06-25 10:02:57",22
+103,"Excision of Transverse Colon, Perc Endo Approach, Diagn","2021-05-04 14:54:48","2021-06-05 14:34:14",34
+104,"Removal of Other Device from Lower Jaw, Perc Approach","2021-03-26 09:52:41",NULL,3
+105,"Insertion of Radioact Elem into R Up Leg, Open Approach","2021-04-10 23:18:21",NULL,53
+106,"Dilation of R Renal Vein with Intralum Dev, Perc Approach","2021-04-26 10:03:15",NULL,75
+107,"Excision of Uterine Supporting Structure, Perc Endo Approach","2021-03-13 11:40:01",NULL,90
+108,"Revision of Synth Sub in Thoracic Duct, Perc Endo Approach","2021-01-19 15:07:57","2021-03-07 09:09:08",94
+109,"Extirpation of Matter from R Low Lobe Bronc, Open Approach","2021-06-09 04:08:57",NULL,80
+110,"Reposition Left Ankle Joint with Ext Fix, Perc Approach","2021-03-14 21:20:44","2021-05-04 10:37:27",15
+111,"Resection of Epiglottis, Percutaneous Endoscopic Approach","2021-04-26 10:03:15",NULL,75
+112,"Supplement Left Basilic Vein with Synth Sub, Perc Approach","2021-05-30 23:34:35","2021-06-09 04:53:00",7
+113,"Excision of Left Ankle Joint, Perc Endo Approach, Diagn","2021-02-16 15:20:20","2021-05-28 14:18:07",20
+114,"Dilation of R Thyroid Art with 2 Drug-elut, Perc Approach","2021-03-14 21:20:44","2021-05-04 10:37:27",15
+115,"Replace L Low Leg Skin w Nonaut Sub, Part Thick, Extern","2021-05-03 22:17:30",NULL,35
+116,"Supplement Right Hand Tendon with Nonaut Sub, Open Approach","2021-02-10 19:58:32","2021-05-28 14:45:38",97
+117,"Removal of Ext Fix from R Metacarpal, Perc Approach","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+118,"Repair Right Femoral Region, Open Approach","2021-04-19 07:12:36","2021-05-31 01:30:44",28
+119,"Irrigation of Epidural Space using Irrigat, Perc Approach","2021-03-25 05:15:44","2021-06-10 01:07:19",66
+120,"Reattachment of Left Upper Extremity, Open Approach","2021-02-20 20:54:32",NULL,47
+121,"Nonimag Nucl Med Prob of Up Extrem using Indium 111","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+122,"Reposition Right External Ear, Open Approach","2021-03-31 23:10:05",NULL,44
+123,"Dilate L Subclav Art, Bifurc, w Drug-elut Intra, Perc Endo","2021-02-20 20:54:32",NULL,47
+124,"Division of Right Pelvic Bone, Percutaneous Approach","2021-05-12 10:14:11",NULL,72
+125,"Remove Autol Sub from L Metacarpocarp Jt, Perc Endo","2021-05-03 22:17:30",NULL,35
+126,"Tomo Nucl Med Imag of Abd & Pelvis using Indium 111","2021-02-17 07:17:15","2021-02-21 21:16:38",26
+127,"Supplement L Int Iliac Art w Nonaut Sub, Perc Endo","2021-03-26 15:12:23",NULL,87
+128,"Planar Nucl Med Imag of Thorax using Technetium 99m","2021-04-14 08:12:02",NULL,69
+129,"Dilate R Int Carotid, Bifurc, w 3 Intralum Dev, Open","2021-06-03 00:28:07","2021-06-07 14:11:55",56
+130,"Removal of Drain Dev from L Metatarsotars Jt, Open Approach","2021-02-17 07:17:15","2021-02-21 21:16:38",26
+131,"Repair Left Posterior Tibial Artery, Percutaneous Approach","2021-01-16 20:45:19",NULL,5
+132,"Revision of Ext Fix in L Finger Phalanx Jt, Extern Approach","2021-03-03 14:09:03","2021-04-13 21:48:26",29
+133,"Bypass Right Hepatic Duct to R Hep Duc, Open Approach","2021-02-14 13:07:11",NULL,81
+134,"Occlusion R Com Iliac Art w Extralum Dev, Open","2021-04-16 20:50:56","2021-05-14 09:41:17",70
+135,"Repair Left Ulna, Open Approach","2021-02-07 15:53:12",NULL,37
+136,"Repair Cerebral Hemisphere, Percutaneous Endoscopic Approach","2021-03-02 03:52:20","2021-04-03 05:29:04",95
+137,"Dilation of Rectum with Intraluminal Device, Perc Approach","2021-04-17 17:47:22","2021-06-28 00:29:35",91
+138,"Release Left Tarsal Joint, Percutaneous Endoscopic Approach","2021-02-13 20:14:58","2021-04-02 03:22:16",88
+139,"Bypass R Axilla Art to Bi Up Leg Art w Autol Vn, Open","2021-02-03 01:34:35","2021-06-06 16:33:37",43
+140,"Restrict L Int Iliac Art w Extralum Dev, Perc Endo","2021-02-13 20:14:58","2021-04-02 03:22:16",88
+141,"Introduce of Oth Anti-infect into Mouth/Phar, Perc Approach","2021-03-25 05:15:44","2021-06-10 01:07:19",66
+142,"Removal of Artif Sphincter from Urethra, Extern Approach","2021-02-06 16:54:06","2021-06-28 23:28:45",58
+143,"Destruction of Hemiazygos Vein, Open Approach","2021-01-29 21:32:55","2021-04-15 07:53:30",32
+144,"Replacement of Left Clavicle with Nonaut Sub, Open Approach","2021-05-23 18:00:36","2021-06-10 01:07:19",74
+145,"Bypass R Com Iliac Art to L Ext Ilia, Open Approach","2021-03-29 06:23:47","2021-04-30 05:31:46",84
+146,"Reposition Right Ulna, Open Approach","2021-05-08 05:02:32",NULL,92
+147,"Revision of Intralum Dev in Thoracic Duct, Extern Approach","2021-02-14 04:10:07","2021-03-16 00:54:45",39
+148,"Transfusion of Autol Globulin into Periph Art, Open Approach","2021-01-16 20:45:19",NULL,52
+149,"Transfuse Autol Bone Marrow in Periph Vein, Perc","2021-03-13 10:23:33",NULL,62
+150,"Dilation of Innom Art with 4 Drug-elut, Open Approach","2021-05-20 19:10:43","2021-05-28 14:18:07",78
+151,"Drainage of Pelvic Cavity with Drain Dev, Open Approach","2021-05-25 18:31:26",NULL,27
+152,"Reposition Left Parotid Duct, Open Approach","2021-05-04 14:54:48","2021-06-05 14:34:14",34
+153,"Bypass Abdominal Aorta to Celiac Artery, Perc Endo Approach","2021-06-09 04:08:57",NULL,80
+154,"Removal of Drainage Device from Lower Artery, Perc Approach","2021-01-11 00:54:13","2021-03-27 20:20:04",19
+155,"Creation of Penis in Female Perineum, Open Approach","2021-05-29 14:32:47","2021-05-30 15:57:06",86
+156,"Bypass L Com Iliac Art to B Int Ilia w Autol Vn, Perc Endo","2021-02-14 06:13:38","2021-03-16 00:54:45",30
+157,"Replace of R Acetabulum with Autol Sub, Perc Endo Approach","2021-05-03 04:43:42","2021-06-28 23:28:45",50
+158,"Alteration of Chest Wall with Nonaut Sub, Perc Approach","2021-03-09 22:07:54",NULL,54
+159,"Drainage of Right Temporal Artery, Perc Endo Approach, Diagn","2021-03-09 22:07:54","2021-04-22 21:54:11",82
+160,"Alteration of R Up Arm Subcu/Fascia, Open Approach","2021-03-15 08:39:31","2021-04-30 05:31:46",79
+161,"Excision of Left Large Intestine, Perc Endo Approach","2021-02-20 20:54:32",NULL,47
+162,"Drainage of Left Foot with Drainage Device, Open Approach","2021-03-15 08:39:31","2021-04-30 05:31:46",79
+163,"Extraction of Accessory Sinus, Percutaneous Approach","2021-06-05 23:46:28","2021-06-28 23:28:45",14
+164,"Occlusion of Left Face Vein, Perc Endo Approach","2021-05-08 05:02:32",NULL,92
+165,"Revision of Synthetic Substitute in R Ulna, Perc Approach","2021-03-26 02:33:04","2021-06-09 04:53:00",41
+166,"Detachment at Right 5th Toe, Low, Open Approach","2021-01-30 05:35:52",NULL,48
+167,"Release Jejunum, Endo","2021-04-07 00:36:59","2021-05-12 03:37:04",45
+168,"Reposition Sciatic Nerve, Percutaneous Approach","2021-06-09 04:08:57",NULL,80
+169,"Bypass Splenic Vein to Low Vein w Synth Sub, Open","2021-04-21 23:30:56",NULL,17
+170,"Release Post Neck Subcu/Fascia, Perc Approach","2021-01-11 06:49:19","2021-05-28 14:45:38",1
+171,"Supplement R Post Tib Art with Autol Sub, Perc Endo Approach","2021-05-12 08:03:17","2021-05-31 23:00:13",57
+172,"Restriction of R Main Bronc with Intralum Dev, Perc Approach","2021-02-14 13:07:11","2021-03-19 06:38:42",81
+173,"Occlusion L Renal Art w Extralum Dev, Perc Endo","2021-06-03 00:28:07","2021-06-07 14:11:55",56
+174,"Revise of Extralum Dev in Pancreat Duct, Perc Endo Approach","2021-03-31 23:10:05",NULL,44
+175,"Removal of Radioactive Element from Upper Jaw, Open Approach","2021-03-09 19:24:26","2021-05-31 01:30:44",33
+176,"Drainage of R Fallopian Tube with Drain Dev, Perc Approach","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+177,"Release Right Ankle Tendon, Percutaneous Approach","2021-04-21 23:30:56","2021-05-14 09:41:17",17
+178,"Replacement of R Temporal Bone with Synth Sub, Open Approach","2021-03-26 09:52:41",NULL,3
+179,"Measurement of Intracranial Temperature, Via Opening","2021-02-13 03:38:49","2021-04-09 00:03:54",73
+180,"Revision of Monitoring Device in Urethra, External Approach","2021-04-27 08:42:31",NULL,99
+181,"Excision of Right Toe Phalanx, Perc Endo Approach","2021-02-17 07:17:15","2021-02-21 21:16:38",26
+182,"Resection of Ampulla of Vater, Via Opening","2021-02-10 19:58:32","2021-05-28 14:45:38",97
+183,"Bypass Trans Colon to Cutan w Synth Sub, Perc Endo","2021-04-04 19:08:10","2021-06-30 21:58:01",9
+184,"Excision of Pericardium, Percutaneous Approach","2021-02-16 15:20:20","2021-05-28 14:18:07",20
+185,"Drainage of Left Nipple, Open Approach, Diagnostic","2021-04-21 23:30:56","2021-05-14 09:41:17",17
+186,"Drainage of Uvula, Percutaneous Approach","2021-05-04 04:43:53","2021-05-15 03:43:54",60
+187,"Removal of Splint on Abdominal Wall","2021-02-13 20:14:58","2021-04-02 03:22:16",88
+188,"Excision of Right Shoulder Muscle, Percutaneous Approach","2021-05-03 04:43:42","2021-06-28 23:28:45",50
+189,"Bypass L Axilla Art to R Low Arm Art w Synth Sub, Open","2021-02-16 15:20:20","2021-06-17 23:15:05",42
+190,"Bypass L Hepatic Duct to Sm Int w Intralum Dev, Perc Endo","2021-04-07 00:36:59","2021-05-12 03:37:04",45
+191,"Change Other Device in Thymus, External Approach","2021-04-21 09:33:30","2021-06-05 14:34:14",31
+192,"Dilation of L Thyroid Art with Intralum Dev, Perc Approach","2021-01-29 21:32:55","2021-04-15 07:53:30",32
+193,"Drainage of L Hand Subcu/Fascia, Perc Approach, Diagn","2021-01-16 20:45:19",NULL,5
+194,"Excision of Anus, Percutaneous Approach","2021-03-31 21:15:24","2021-04-13 21:48:26",13
+195,"Destruction of Right Knee Bursa and Ligament, Perc Approach","2021-03-31 06:47:05",NULL,96
+196,"Insertion of Other Device into Respiratory Tract, Endo","2021-02-14 06:13:38","2021-03-16 00:54:45",30
+197,"Insert of Monitor Dev into R Ventricle, Perc Endo Approach","2021-04-12 11:20:28","2021-06-17 23:15:05",25
+198,"Fusion of L Toe Phalanx Jt with Ext Fix, Perc Approach","2021-04-09 20:14:55","2021-05-17 15:31:31",46
+199,"Restrict of R Int Mamm Art with Intralum Dev, Open Approach","2021-01-17 07:42:53",NULL,2
+200,"Beam Radiation of Back Skin using Electrons","2021-04-13 00:38:02","2021-05-12 03:37:04",61

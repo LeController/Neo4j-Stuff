@@ -1,0 +1,61 @@
+teacherId,firstName,middleName,lastName,gender,birthdate,username,passwordHash,phoneNum,registeredAt,updatedAt,educationLevel,specialization,email,country
+1,Esma,,Mole,F,1981-04-05,hmole0,FcPtGczeeL3S,410-372-2888,2021-03-30 15:47:23,null,Doctoral,Finance,cmole0@loc.gov,United States
+2,Phillip,,Perch,M,1989-10-03,fperch1,CB8ICABakl2,570-975-7135,2021-06-28 17:17:03,null,Master,Finance,sperch1@miitbeian.gov.cn,United States
+3,Tabby,,Gligorijevic,M,1980-10-11,tgligorijevic2,a7HwLHgxwD,279-858-5017,2021-04-20 06:01:07,null,Bachelor,Data Science,ngligorijevic2@51.la,Thailand
+4,Jefferson,,Charette,M,1985-05-06,rcharette3,cU5FDXP1HyH,334-952-6396,2021-02-04 11:09:41,null,Professional Certificate,Data Science,scharette3@typepad.com,United States
+5,Mavra,,Votier,F,1992-10-28,cvotier4,8PIRdFeF3af,445-438-3193,2021-03-28 09:49:11,null,Doctoral,Investing,mvotier4@gravatar.com,Thailand
+6,Hyacinthia,,Alderwick,F,1980-01-10,kalderwick5,GiVhuN27,915-509-8216,2021-04-30 10:13:37,null,Master,Business,lalderwick5@canalblog.com,United States
+7,Cherri,,Guys,F,1986-03-26,jguys6,Fc4ZN1oaSULa,405-825-9934,2021-04-26 14:12:03,null,Doctoral,Investing,sguys6@feedburner.com,United States
+8,Cayla,Demeter,Bollam,F,1983-01-31,dbollam7,a1y9Rw,null,2021-01-16 00:50:00,null,Bachelor,Marketing,dbollam7@telegraph.co.uk,Thailand
+9,Torr,,Larkkem,M,1987-09-10,dlarkkem8,7w40aKbO3,206-199-5349,2021-01-21 02:58:30,null,Bachelor,Investing,slarkkem8@a8.net,United States
+10,Alyson,,Dugget,F,1988-11-20,mdugget9,67A6FKV,229-684-5069,2021-06-30 07:24:12,null,Doctoral,Investing,mdugget9@squidoo.com,United States
+11,Dougy,,Manssuer,M,1992-01-12,dmanssuera,IBYAr3jt,816-343-7459,2021-04-18 05:07:08,null,Master,Marketing,lmanssuera@jiathis.com,Australia
+12,Jerrie,,Bill,F,1991-04-18,sbillb,LNkI2RTSk,738-842-8912,2021-02-03 13:21:25,null,Doctoral,Investing,fbillb@skyrock.com,Thailand
+13,Delmor,Obadiah,Piggford,M,1981-04-16,opiggfordc,qmpxCk3yz5,966-592-2717,2021-03-22 13:51:56,null,Bachelor,Data Science,opiggfordc@themeforest.net,Thailand
+14,Billi,,Gladdin,F,1981-12-31,dgladdind,gVKNlzoG0Rx,973-560-3273,2021-04-09 16:10:43,null,Master,Marketing,jgladdind@domainmarket.com,Thailand
+15,Jamaal,,Schaffler,null,1994-07-11,bschafflere,NVPUg9,516-982-8245,2021-01-15 02:11:51,null,Professional Certificate,Business,hschafflere@gravatar.com,United States
+16,Lisette,,Corten,F,1981-11-26,bcortenf,5prnf1Q,396-754-0846,2021-03-21 12:43:39,null,Doctoral,Mathematics,ccortenf@aol.com,Thailand
+17,Gilemette,,Spellacy,F,null,mspellacyg,i71PQjQv4,857-285-1519,2021-06-08 15:00:31,null,Doctoral,Marketing,cspellacyg@alibaba.com,United States
+18,Murvyn,,Dumpleton,M,1987-02-23,odumpletonh,9VGj5X63,904-472-0272,2021-01-28 03:28:05,null,Master,Business,edumpletonh@sciencedirect.com,United States
+19,Lenna,,Chidwick,F,1984-02-02,cchidwicki,xQBNsZNP,835-659-8402,2021-04-17 08:50:46,null,Doctoral,Marketing,nchidwicki@ocn.ne.jp,Thailand
+20,Lillian,,Grzeszczak,F,1984-08-07,dgrzeszczakj,BEqxPK,341-915-4143,2021-04-07 12:58:35,null,Master,Investing,lgrzeszczakj@businessweek.com,Thailand
+21,Krissy,Laureen,Vakhrushin,F,1990-11-25,lvakhrushink,sqg1y3tOdq,423-755-3389,2021-02-16 01:18:41,null,Professional Certificate,Mathematics,lvakhrushink@state.gov,Thailand
+22,Sibilla,Marge,Magarrell,F,1994-04-27,mmagarrelll,CV3cVCm,702-877-5232,2021-01-02 06:04:10,null,Bachelor,Mathematics,mmagarrelll@bbc.co.uk,United States
+23,Carmencita,,Lambole,F,1989-04-30,tlambolem,7Jl3KG5Bhr,267-803-5314,2021-06-27 21:56:51,null,Doctoral,Mathematics,hlambolem@ft.com,Thailand
+24,Junie,,Harlowe,F,1994-02-26,aharlowen,gOQzpKMv,501-207-9189,2021-02-08 11:23:38,null,Doctoral,Data Science,dharlowen@technorati.com,United States
+25,Eamon,,Mathouse,M,1987-04-21,bmathouseo,JfiGE6d,478-653-4060,2021-04-10 16:44:41,null,Professional Certificate,Investing,nmathouseo@wordpress.com,United States
+26,Sascha,Hymie,Gerson,M,1991-05-19,hgersonp,Urw17gSZ,407-271-1216,2021-03-11 04:37:10,null,Professional Certificate,Investing,hgersonp@newyorker.com,United States
+27,Justen,Reynold,Dyott,M,null,rdyottq,66vawq,225-386-1877,2021-02-22 08:15:37,null,Doctoral,Business,rdyottq@businessinsider.com,United States
+28,Mariette,,Murdie,F,1985-09-03,rmurdier,LE4dx0nbf,506-407-9707,2021-04-24 06:08:56,null,Professional Certificate,Marketing,emurdier@diigo.com,Thailand
+29,Mervin,Skipp,Bulcock,M,1991-03-23,sbulcocks,MpbPtrAjkX,598-524-1417,2021-05-01 01:03:06,null,Doctoral,Business,sbulcocks@vk.com,Thailand
+30,Udall,Lannie,Thiolier,M,1980-06-05,lthioliert,VUj10D2i,323-161-4750,2021-03-21 11:13:59,null,Doctoral,Mathematics,lthioliert@webeden.co.uk,United States
+31,Wyatt,,Kernan,M,1992-01-09,jkernanu,b0rFMS9mkF,757-842-2408,2021-05-14 17:14:02,2021-06-03 19:15:33,Doctoral,Marketing,wkernanu@i2i.jp,Thailand
+32,Dick,Pamella,Boarleyson,null,1983-05-28,pboarleysonv,HCY37fix,889-120-3650,2021-02-19 01:24:59,null,null,Finance,pboarleysonv@quantcast.com,Thailand
+33,Ingra,,Enderby,M,1992-11-16,kenderbyw,hSv8yk,305-297-7234,2021-03-11 17:20:41,null,Bachelor,Finance,eenderbyw@foxnews.com,United States
+34,Rodger,,Whittington,M,1982-08-05,fwhittingtonx,9CaGTDZAfEs,435-573-7311,2021-06-21 19:34:18,null,Doctoral,Finance,mwhittingtonx@geocities.jp,United States
+35,Quentin,,Saby,F,1985-10-08,ssabyy,BQd5NKHk,713-939-7049,2021-03-22 06:10:03,null,Bachelor,Mathematics,dsabyy@ca.gov,United States
+36,Nicolas,,Paskin,M,1994-12-07,dpaskinz,r2u5sbhrHyL,405-545-3005,2021-05-18 03:58:07,null,Doctoral,Investing,npaskinz@cam.ac.uk,United States
+37,Freddie,,Capell,F,1981-09-01,bcapell10,BZWBaNoM,652-326-5461,2021-03-25 21:50:19,null,Doctoral,Marketing,jcapell10@cpanel.net,Thailand
+38,Malanie,,Kinnar,F,1983-02-19,akinnar11,tiWUgDDS,604-887-5965,2021-02-03 13:08:13,2021-06-25 22:09:19,Doctoral,Finance,ekinnar11@ovh.net,Thailand
+39,Shani,,Pablo,F,1989-09-24,hpablo12,onlZf34,783-733-0012,2021-01-06 12:05:16,null,Master,Business,mpablo12@51.la,Nepal
+40,Denver,,Dedman,M,1989-10-16,adedman13,5iop8xy0ylZy,747-574-1164,2021-03-15 08:35:17,null,Bachelor,Business,bdedman13@goodreads.com,Bangladesh
+41,Savina,,Vlasyuk,F,1993-08-09,rvlasyuk14,9ocCjxFJwol,503-449-4001,2021-06-20 10:28:29,null,Doctoral,Marketing,svlasyuk14@theguardian.com,United States
+42,Evyn,,McClenan,M,1983-03-13,jmcclenan15,9hnTktOj,609-543-2062,2021-01-15 21:20:53,null,Doctoral,Finance,nmcclenan15@usnews.com,Thailand
+43,Olivero,,Halley,M,1988-05-19,khalley16,ze2gZCUg,619-372-1195,2021-02-09 14:58:28,null,Professional Certificate,Data Science,khalley16@twitter.com,United States
+44,Kitty,,Gley,F,1986-01-06,igley17,lhEoWA6sw,847-662-8028,2021-04-20 20:07:52,null,Master,Investing,tgley17@oracle.com,United States
+45,Bartlet,,Swindlehurst,M,1983-05-12,mswindlehurst18,ARMi6sNl,719-614-1623,2021-04-02 15:43:27,2021-06-21 00:14:57,Master,Marketing,tswindlehurst18@wix.com,Thailand
+46,Demetra,,Breach,F,1983-06-29,nbreach19,IeD7jh,815-824-3034,2021-06-23 16:36:05,null,Master,Investing,mbreach19@macromedia.com,Bangladesh
+47,Mattias,,Playle,M,1991-10-18,gplayle1a,qt3wfKd8rfQf,404-486-6634,2021-06-25 17:46:18,null,Bachelor,Investing,rplayle1a@taobao.com,United States
+48,Brigitte,,Claringbold,F,1984-08-11,rclaringbold1b,4UGuPTwBM,203-834-2883,2021-01-26 11:39:57,null,Master,Business,aclaringbold1b@earthlink.net,United States
+49,Barris,,Coiley,M,1981-04-10,bcoiley1c,lAtMFl7,407-729-3979,2021-01-08 05:59:24,null,Professional Certificate,Data Science,ecoiley1c@buzzfeed.com,United States
+50,Danny,,Parrish,null,1988-05-08,jparrish1d,X9jMkHx9,334-807-2840,2021-01-22 03:08:15,null,null,Marketing,nparrish1d@desdev.cn,Thailand
+51,Elizabet,,Leppo,F,1980-08-01,eleppo1e,M7B0Ml,412-366-3477,2021-03-23 23:29:38,null,Doctoral,Mathematics,mleppo1e@wsj.com,Thailand
+52,Rodd,,Stacy,M,1987-06-06,kstacy1f,NHHQrF,704-996-6283,2021-01-08 01:35:16,null,Master,Investing,jstacy1f@hatena.ne.jp,Thailand
+53,Nixie,,Geere,F,1991-05-21,jgeere1g,atlej03,null,2021-06-16 16:03:58,null,Bachelor,Finance,cgeere1g@1688.com,Thailand
+54,Fallon,,Bellis,F,1985-11-21,dbellis1h,0zyEEGiiJ7ot,360-877-1143,2021-04-25 11:09:11,null,Master,Finance,ibellis1h@tuttocitta.it,United States
+55,Karney,Andrey,Mc Trusty,M,1983-05-25,amctrusty1i,5uy9ga,410-404-6082,2021-02-11 23:57:55,null,Doctoral,Finance,amctrusty1i@amazon.co.jp,Thailand
+56,Genovera,,Pablos,F,1993-05-08,opablos1j,DsVpWA,null,2021-04-27 06:15:09,null,Bachelor,Data Science,spablos1j@lycos.com,United States
+57,Isiahi,,Rives,M,1983-12-16,srives1k,fKCmby70Sj,150-131-8952,2021-01-15 21:15:38,null,Professional Certificate,Marketing,arives1k@comsenz.com,Thailand
+58,Lemar,,Baynton,null,1994-10-22,mbaynton1l,YHpgFO,224-514-5030,2021-04-08 20:30:06,null,null,Data Science,cbaynton1l@earthlink.net,United Kingdom
+59,Say,,Vossing,M,1981-04-30,bvossing1m,0uyKbSGBLZ1,763-478-8814,2021-04-20 10:09:14,null,Bachelor,Mathematics,tvossing1m@intel.com,United States
+60,Charley,,Parfrey,M,1985-02-02,fparfrey1n,e38kXRT5M,972-420-6961,2021-05-07 22:14:21,null,Professional Certificate,Business,mparfrey1n@blog.com,United States

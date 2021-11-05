@@ -1,0 +1,693 @@
+assignmentId,studentId,check,courseId,createdAt,updatedAt,status,score,feedback
+1,184,1184,65,2021-07-29 08:42:42,2021-08-13 08:42:42,Complete,4.7,Cow's milk hypocalcemia in newborn
+1,186,1186,65,2021-05-07 11:51:00,2021-05-28 11:51:00,Incomplete,null,null
+2,49,249,59,2021-04-30 15:35:32,2021-05-26 15:35:32,Incomplete,null,null
+2,53,253,59,2021-07-02 00:13:05,2021-07-31 00:13:05,Incomplete,null,null
+3,7,37,50,2021-06-04 14:29:08,null,Incomplete,null,null
+3,53,353,50,2021-02-17 12:32:09,2021-03-02 12:32:09,Complete,8.8,"Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min"
+3,86,386,50,2021-07-24 00:30:28,2021-08-08 00:30:28,Incomplete,null,null
+3,163,3163,50,2021-03-14 08:36:33,2021-04-03 08:36:33,Complete,1.3,"Pressure ulcer of unspecified elbow, stage 1"
+4,50,450,17,2021-08-27 22:11:22,2021-09-20 22:11:22,Complete,4.2,"Displ osteochon fx l patella, 7thM"
+4,68,468,17,2021-03-12 04:58:14,null,Incomplete,null,null
+4,180,4180,17,2021-05-15 18:21:52,2021-06-12 18:21:52,Incomplete,null,null
+5,127,5127,21,2021-05-08 16:23:49,2021-06-01 16:23:49,Complete,6.8,"Burn of third degree of left palm, subsequent encounter"
+6,17,617,1,2021-07-24 03:50:49,2021-08-15 03:50:49,Complete,1.8,Nondisplaced fracture of sternal end of right clavicle
+6,57,657,1,2021-05-19 08:04:35,2021-05-30 08:04:35,Incomplete,null,null
+6,122,6122,1,2021-05-18 06:59:57,2021-06-04 06:59:57,Complete,6.7,"Cont preg aft uterin dth of one fetus or more, unsp tri, oth"
+6,152,6152,1,2021-05-25 00:47:12,null,Incomplete,null,null
+7,50,750,20,2021-04-01 13:03:52,null,Incomplete,null,null
+7,138,7138,20,2021-04-27 21:42:09,2021-05-14 21:42:09,Complete,7.3,"Unsp fracture of left talus, init encntr for closed fracture"
+8,60,860,65,2021-05-18 13:57:30,null,Incomplete,null,null
+8,142,8142,65,2021-03-11 21:18:10,2021-03-24 21:18:10,Complete,7.7,"Capslr glaucoma w/pseudxf lens, unsp eye, severe stage"
+8,184,8184,65,2021-07-16 08:42:42,null,Incomplete,null,null
+8,197,8197,65,2021-08-13 14:52:27,null,Incomplete,null,null
+9,38,938,60,2021-07-04 09:41:58,2021-07-23 09:41:58,Complete,1.5,Other feeding disorders of infancy and childhood
+9,137,9137,60,2021-07-10 04:28:02,null,Incomplete,null,null
+9,142,9142,60,2021-06-19 11:39:56,2021-07-12 11:39:56,Complete,9.3,"Displ spiral fx shaft of l tibia, 7thN"
+9,189,9189,60,2021-04-08 02:21:18,2021-05-03 02:21:18,Complete,2.4,"Migraine, unsp, not intractable, without status migrainosus"
+10,13,1013,12,2021-08-02 18:07:38,2021-08-21 18:07:38,Complete,4.8,"Milt op involving oth fire/hot subst, civilian, init"
+10,61,1061,12,2021-06-10 17:31:14,2021-07-02 17:31:14,Complete,4.7,"Civilian in water injured by military watercraft, sequela"
+10,72,1072,12,2021-03-09 11:47:25,null,Incomplete,null,null
+10,115,10115,12,2021-04-07 13:52:09,2021-04-18 13:52:09,Incomplete,null,null
+11,17,1117,1,2021-07-21 03:50:49,2021-08-09 03:50:49,Complete,1.6,"Blister (nonthermal) of unsp front wall of thorax, init"
+11,62,1162,1,2021-06-13 08:05:04,2021-06-25 08:05:04,Complete,7.1,Butyrophenone and thiothixene neuroleptics
+11,122,11122,1,2021-05-27 06:59:57,null,Incomplete,null,null
+11,199,11199,1,2021-03-14 11:03:06,2021-04-10 11:03:06,Incomplete,null,null
+12,48,1248,88,2021-07-14 04:19:38,null,Incomplete,null,null
+12,67,1267,88,2021-06-29 01:24:27,2021-07-20 01:24:27,Complete,4.8,"Toxic effect of manganese and its compounds, undetermined"
+13,90,1390,36,2021-07-10 02:13:12,2021-08-03 02:13:12,Incomplete,null,null
+13,103,13103,36,2021-06-09 14:53:31,2021-06-20 14:53:31,Complete,7,"Malignant neoplasm of major salivary gland, unspecified"
+13,106,13106,36,2021-02-26 17:07:15,2021-03-27 17:07:15,Complete,9.7,"Intentional self-harm by sharp glass, sequela"
+13,127,13127,36,2021-03-01 08:53:30,2021-03-16 08:53:30,Complete,3.4,"Other meniscus derangements, unspecified meniscus, left knee"
+13,195,13195,36,2021-05-07 05:38:53,2021-06-06 05:38:53,Incomplete,null,null
+14,12,1412,39,2021-05-29 16:35:42,2021-06-17 16:35:42,Incomplete,null,null
+14,199,14199,39,2021-06-06 16:03:15,2021-06-26 16:03:15,Complete,8.5,"Nondisp fx of prox phalanx of r less toe(s), 7thK"
+15,105,15105,3,2021-08-17 20:41:51,2021-08-31 20:41:51,Complete,8.7,"Central dislocation of right hip, initial encounter"
+15,119,15119,3,2021-08-06 17:07:47,null,Incomplete,null,null
+16,42,1642,94,2021-06-21 09:48:56,null,Incomplete,null,null
+16,183,16183,94,2021-07-10 08:30:00,2021-07-24 08:30:00,Complete,1.2,"Burn of second degree of male genital region, subs encntr"
+16,59,1659,95,2021-03-30 13:18:22,null,Incomplete,null,null
+16,70,1670,95,2021-05-07 14:47:55,2021-05-28 14:47:55,Complete,8.9,"External constriction, right thigh, initial encounter"
+16,141,16141,95,2021-06-11 12:36:36,2021-07-01 12:36:36,Complete,9.3,"Oth disorders of optic nerve, NEC, unsp eye"
+16,178,16178,95,2021-04-12 17:40:36,null,Incomplete,null,null
+16,195,16195,95,2021-03-23 06:17:08,2021-04-22 06:17:08,Complete,9.7,"Nondisp commnt fx shaft of unsp tibia, 7thF"
+17,12,1712,39,2021-05-15 16:35:42,2021-06-05 16:35:42,Complete,8,Underdosing of aspirin
+17,21,1721,40,2021-04-27 08:53:13,null,Incomplete,null,null
+18,20,1820,10,2021-02-15 09:24:27,null,Incomplete,null,null
+18,52,1852,10,2021-04-13 10:26:15,2021-05-05 10:26:15,Complete,4.9,"Disp fx of neck of first MC bone, right hand, sequela"
+18,57,1857,10,2021-03-30 19:31:53,2021-04-27 19:31:53,Complete,6.4,Rheumatoid lung disease w rheumatoid arthritis of left elbow
+18,76,1876,10,2021-05-20 02:38:34,2021-06-11 02:38:34,Complete,7.9,"Calcifcn and ossifictn of muscles assoc w burns, mult sites"
+18,83,1883,10,2021-04-16 06:24:33,2021-04-28 06:24:33,Complete,8.2,"Oth psychoactive substance use, unsp w withdrawal delirium"
+18,100,18100,10,2021-04-01 22:02:50,2021-04-12 22:02:50,Complete,3.1,"Strain of unsp msl/tnd at ank/ft level, unsp foot, sequela"
+19,72,1972,51,2021-02-24 15:04:13,2021-03-17 15:04:13,Complete,5.1,Burn due to other powered watercraft on fire
+20,5,205,25,2021-03-11 01:04:26,2021-03-27 01:04:26,Incomplete,null,null
+20,105,20105,25,2021-07-10 23:42:18,2021-07-24 23:42:18,Complete,6.3,"Disp fx of coronoid pro of l ulna, 7thK"
+21,33,2133,73,2021-05-05 10:35:20,2021-05-20 10:35:20,Complete,4.2,"Disp fx of lateral condyle of unspecified humerus, sequela"
+21,68,2168,73,2021-04-10 00:16:51,2021-05-04 00:16:51,Complete,9.9,"Unspecified injury of muscle, fascia and tendon of pelvis"
+21,92,2192,73,2021-03-03 19:46:50,2021-03-19 19:46:50,Complete,3,"Inferior dislocation of left humerus, initial encounter"
+21,128,21128,73,2021-02-19 01:50:04,2021-03-02 01:50:04,Complete,9.2,"Fall into natural body of water strk side cause drown, subs"
+21,167,21167,73,2021-04-20 14:38:34,null,Incomplete,null,null
+22,72,2272,51,2021-02-19 15:04:13,2021-03-17 15:04:13,Incomplete,null,null
+23,120,23120,53,2021-03-14 06:11:30,2021-04-09 06:11:30,Complete,1.6,"Unspecified purulent endophthalmitis, left eye"
+23,5,235,54,2021-06-10 16:07:14,2021-06-22 16:07:14,Complete,6.6,"Zoonotic bacterial disease, unspecified"
+23,33,2333,54,2021-04-28 05:02:11,2021-05-27 05:02:11,Incomplete,null,null
+23,67,2367,54,2021-05-15 05:44:52,2021-06-12 05:44:52,Complete,4,"Age-rel osteopor w crnt path fx, r ank/ft, 7thP"
+23,175,23175,54,2021-05-30 21:59:15,2021-06-26 21:59:15,Complete,7.2,"Infantile idiopathic scoliosis, lumbar region"
+24,13,2413,12,2021-07-30 18:07:38,2021-08-16 18:07:38,Complete,1.7,Renal failure following (induced) termination of pregnancy
+24,61,2461,12,2021-06-18 17:31:14,2021-07-15 17:31:14,Complete,9.2,Infect/inflm reaction due to int fix of right ulna
+24,72,2472,12,2021-02-25 11:47:25,null,Incomplete,null,null
+24,115,24115,12,2021-03-25 13:52:09,2021-04-10 13:52:09,Complete,4.3,"Carcinoma in situ of cervix, unspecified"
+26,52,2652,55,2021-07-28 07:38:10,2021-08-18 07:38:10,Complete,3,"Hereditary nephropathy, NEC w diffuse crescentic glomrlneph"
+26,91,2691,55,2021-03-12 09:09:41,2021-04-04 09:09:41,Complete,1.7,"Other intervertebral disc displacement, thoracic region"
+26,173,26173,55,2021-08-13 23:19:21,2021-09-01 23:19:21,Complete,3.4,"Nondisp spiral fx shaft of unsp tibia, 7thH"
+26,180,26180,55,2021-05-01 09:46:29,2021-05-16 09:46:29,Complete,1.3,Salter-Harris Type IV physeal fracture of metatarsal
+27,117,27117,81,2021-07-25 16:07:16,2021-08-15 16:07:16,Complete,3.7,"Presence of artificial legs, bilateral (complete) (partial)"
+27,192,27192,81,2021-08-07 02:06:55,2021-09-01 02:06:55,Complete,5.7,"Unsp physeal fx lower end of ulna, unsp arm, sequela"
+28,4,284,4,2021-07-14 07:15:07,2021-08-08 07:15:07,Complete,4.1,Parosmia
+28,7,287,4,2021-03-02 17:11:47,2021-03-12 17:11:47,Complete,2.7,"Bent bone of left ulna, subs for opn fx type I/2 w nonunion"
+28,32,2832,4,2021-04-25 18:16:01,2021-05-06 18:16:01,Incomplete,null,null
+28,39,2839,4,2021-06-18 18:33:22,2021-07-14 18:33:22,Incomplete,null,null
+28,86,2886,4,2021-03-12 04:31:21,null,Incomplete,null,null
+29,49,2949,59,2021-04-24 15:35:32,2021-05-08 15:35:32,Complete,4.1,"Retinopathy of prematurity, stage 3, left eye"
+29,74,2974,59,2021-07-17 06:26:37,2021-07-28 06:26:37,Complete,8,Cerebral infarction due to thrombosis of unsp carotid artery
+30,36,3036,34,2021-06-12 08:18:24,null,Incomplete,null,null
+30,107,30107,34,2021-04-23 07:08:27,2021-05-05 07:08:27,Complete,1.7,Crohn's disease of large intestine with abscess
+30,179,30179,34,2021-07-13 18:25:56,2021-07-24 18:25:56,Complete,5.9,"Ped on sktbrd injured in collision w hv veh in traf, init"
+31,29,3129,56,2021-08-09 14:08:31,2021-08-27 14:08:31,Complete,5.4,Induration of breast
+31,56,3156,56,2021-07-09 21:57:27,null,Incomplete,null,null
+31,76,3176,56,2021-08-03 01:16:35,2021-08-14 01:16:35,Complete,5,Family history of other diseases of the respiratory system
+31,106,31106,56,2021-04-21 08:59:40,null,Incomplete,null,null
+31,192,31192,56,2021-06-06 19:17:32,2021-07-03 19:17:32,Complete,8.8,Occupant of 3-whl mv injured in collision w hv veh
+32,117,32117,81,2021-07-22 16:07:16,2021-08-17 16:07:16,Complete,1.1,"Exposure to other electric current, subsequent encounter"
+32,192,32192,81,2021-08-16 02:06:55,2021-09-07 02:06:55,Complete,6.5,Accessory finger(s)
+34,7,347,20,2021-06-07 10:46:13,2021-06-27 10:46:13,Complete,5.7,"Sltr-haris Type III physl fx low end r femr, 7thG"
+34,57,3457,20,2021-07-30 03:27:55,2021-08-22 03:27:55,Complete,6.6,"Osteochondrosis (juvenile) of metacarpal heads, left hand"
+34,138,34138,20,2021-04-23 21:42:09,2021-05-09 21:42:09,Complete,8.4,"Laceration w/o fb of finger w/o damage to nail, sequela"
+35,112,35112,99,2021-08-03 10:19:11,2021-09-02 10:19:11,Complete,8.7,Sarcoidosis
+35,135,35135,99,2021-03-26 01:05:26,2021-04-22 01:05:26,Complete,2.5,Corrosion of third degree of upper back
+35,183,35183,99,2021-06-26 14:53:06,2021-07-26 14:53:06,Complete,8.1,"Displ seg fx shaft of unsp tibia, 7thG"
+36,10,3610,47,2021-06-12 21:33:15,2021-06-24 21:33:15,Complete,2.2,Oth paved roadways as place
+36,110,36110,47,2021-07-17 22:51:33,2021-08-16 22:51:33,Incomplete,null,null
+36,179,36179,47,2021-08-11 07:03:30,2021-09-05 07:03:30,Incomplete,null,null
+37,29,3729,16,2021-04-05 12:55:48,2021-04-28 12:55:48,Complete,5.8,"Nondisplaced osteochondral fracture of unsp patella, sequela"
+37,100,37100,16,2021-03-06 01:37:55,2021-03-28 01:37:55,Complete,6.4,"Torus fracture of upper end of left humerus, sequela"
+37,125,37125,16,2021-04-18 19:21:00,2021-05-03 19:21:00,Complete,1.8,"Contact with edge of stiff paper, sequela"
+37,173,37173,16,2021-06-29 02:20:30,2021-07-14 02:20:30,Incomplete,null,null
+38,93,3893,35,2021-06-16 07:59:26,2021-06-29 07:59:26,Complete,5.1,"Contact w mining and earth-drilling machinery, subs encntr"
+38,182,38182,35,2021-08-15 21:30:49,null,Incomplete,null,null
+39,54,3954,27,2021-07-04 17:37:39,2021-07-20 17:37:39,Complete,1.1,"Macular cyst, hole, or pseudohole, right eye"
+39,122,39122,27,2021-02-21 19:05:23,2021-03-22 19:05:23,Complete,6,"Nondisp fx of low epiphy (separation) of l femr, 7thQ"
+39,170,39170,27,2021-07-08 16:15:21,2021-08-03 16:15:21,Complete,8.9,"Laceration w/o fb of unsp finger w/o damage to nail, sequela"
+40,53,4053,59,2021-06-20 00:13:05,2021-07-15 00:13:05,Complete,6.4,"Idiopathic gout, elbow"
+40,74,4074,59,2021-07-09 06:26:37,null,Incomplete,null,null
+41,21,4121,52,2021-07-24 05:06:16,2021-08-07 05:06:16,Incomplete,null,null
+41,73,4173,52,2021-07-31 14:29:56,2021-08-24 14:29:56,Complete,7.8,"Oth fracture of unsp pubis, subs for fx w nonunion"
+41,129,41129,52,2021-03-25 11:25:12,2021-04-10 11:25:12,Incomplete,null,null
+41,135,41135,52,2021-08-10 22:53:42,2021-09-03 22:53:42,Complete,10,"Open bite, left hip, subsequent encounter"
+41,140,41140,52,2021-05-01 07:11:45,null,Incomplete,null,null
+42,54,4254,27,2021-07-05 17:37:39,2021-07-17 17:37:39,Complete,6,Nondisplaced avulsion fracture (chip fracture) of unsp talus
+42,127,42127,27,2021-07-07 01:35:00,2021-08-02 01:35:00,Complete,7,"Sltr-haris Type IV physl fx low end rad, l arm, 7thP"
+42,170,42170,27,2021-06-28 16:15:21,2021-07-11 16:15:21,Complete,5.1,"Other specified crystal arthropathies, left hip"
+43,49,4349,7,2021-05-01 06:21:17,2021-05-19 06:21:17,Complete,2.8,"Poisoning by enzymes, intentional self-harm, init encntr"
+43,56,4356,7,2021-07-21 05:58:07,2021-07-31 05:58:07,Incomplete,null,null
+44,17,4417,68,2021-04-18 02:57:51,2021-05-03 02:57:51,Complete,9.9,Chronic lacrimal mucocele of left lacrimal passage
+44,90,4490,68,2021-04-22 16:45:31,2021-05-12 16:45:31,Complete,6.5,Encounter for blood typing
+44,126,44126,68,2021-05-06 16:54:22,2021-05-22 16:54:22,Complete,4.8,"Asphyxiation due to hanging, accidental"
+45,107,45107,92,2021-06-14 17:16:56,null,Incomplete,null,null
+45,142,45142,92,2021-03-01 16:53:17,null,Incomplete,null,null
+46,46,4646,67,2021-08-14 15:11:02,2021-09-01 15:11:02,Incomplete,null,null
+46,72,4672,67,2021-03-23 00:46:22,2021-04-19 00:46:22,Complete,3.5,Vis def/sptl nglct following other ntrm intcrn hemorrhage
+46,89,4689,67,2021-04-29 05:34:50,2021-05-10 05:34:50,Complete,9.4,Acute mastoiditis
+46,129,46129,67,2021-02-27 21:26:47,2021-03-09 21:26:47,Complete,1.2,"Toxic effect of formaldehyde, accidental, sequela"
+46,160,46160,67,2021-06-11 01:21:39,2021-07-03 01:21:39,Incomplete,null,null
+46,168,46168,67,2021-04-19 06:31:33,2021-05-04 06:31:33,Complete,2.6,"Displ lateral mass fx 1st cervcal vert, 7thG"
+47,35,4735,77,2021-03-06 20:54:04,2021-03-17 20:54:04,Incomplete,null,null
+47,55,4755,77,2021-05-24 08:19:32,null,Incomplete,null,null
+47,93,4793,77,2021-03-06 16:58:22,null,Incomplete,null,null
+48,9,489,96,2021-04-06 23:14:52,2021-04-19 23:14:52,Complete,3.1,"Mtrcy pasngr injured in clsn w rail trn/veh in traf, sequela"
+48,29,4829,96,2021-06-03 07:52:15,2021-06-27 07:52:15,Complete,1.3,"Nondisp transverse fx shaft of unsp fibula, 7thB"
+48,47,4847,96,2021-04-28 00:50:28,2021-05-19 00:50:28,Complete,6.4,"Other meniscus derangements, unspecified meniscus, left knee"
+48,63,4863,96,2021-08-17 02:16:20,2021-09-04 02:16:20,Complete,9.2,"Disp fx of lateral end of l clavicle, subs for fx w malunion"
+48,125,48125,96,2021-05-03 12:40:47,null,Incomplete,null,null
+49,55,4955,18,2021-07-15 16:31:54,2021-08-01 16:31:54,Complete,1.9,"Unstable burst fracture of first lumbar vertebra, sequela"
+49,72,4972,18,2021-05-26 14:16:49,2021-06-15 14:16:49,Complete,8,"Nondisp comminuted fracture of shaft of left fibula, init"
+49,76,4976,18,2021-05-18 20:59:40,2021-06-10 20:59:40,Complete,4.9,"Nondisp fx of glenoid cav of scapula, r shldr, 7thD"
+49,117,49117,18,2021-05-23 13:21:52,2021-06-17 13:21:52,Complete,6.1,Isolated myocarditis
+49,131,49131,18,2021-06-15 11:32:08,2021-06-25 11:32:08,Complete,8.9,"Unsp nondisp fx of surg nk of l humer, 7thK"
+49,193,49193,18,2021-03-01 19:19:55,2021-03-24 19:19:55,Incomplete,null,null
+50,12,5012,85,2021-08-29 07:29:15,2021-09-14 07:29:15,Complete,1.3,"Nondisp segmental fracture of shaft of humerus, right arm"
+50,84,5084,85,2021-07-26 14:52:16,2021-08-24 14:52:16,Incomplete,null,null
+50,116,50116,85,2021-03-26 02:22:04,2021-04-05 02:22:04,Complete,3,"Unsp fx r low leg, subs for opn fx type 3A/B/C w nonunion"
+50,126,50126,85,2021-07-19 14:46:39,2021-08-11 14:46:39,Complete,7.3,"Supervision of young primigravida, third trimester"
+50,138,50138,85,2021-04-22 03:11:54,2021-05-21 03:11:54,Complete,2.7,Unilateral primary osteoarth of first carpometacarp joint
+50,154,50154,85,2021-04-21 00:35:06,2021-05-19 00:35:06,Complete,9,"Maternal care for hereditary disease in fetus, fetus 5"
+51,76,5176,71,2021-04-30 18:58:09,2021-05-19 18:58:09,Complete,4.7,Syphilis of kidney and ureter
+51,177,51177,71,2021-06-12 15:58:36,2021-07-09 15:58:36,Complete,2.6,"Displaced unsp fx unsp great toe, subs for fx w routn heal"
+52,9,529,96,2021-04-13 23:14:52,2021-04-27 23:14:52,Complete,2.5,"Burn of unsp degree of unspecified scapular region, sequela"
+52,30,5230,96,2021-05-26 17:02:42,2021-06-17 17:02:42,Incomplete,null,null
+52,47,5247,96,2021-05-11 00:50:28,2021-05-26 00:50:28,Complete,6.4,"Displ commnt fx shaft of l tibia, 7thF"
+52,113,52113,96,2021-05-12 09:17:57,2021-06-02 09:17:57,Incomplete,null,null
+52,125,52125,96,2021-05-19 12:40:47,2021-06-14 12:40:47,Complete,5.9,"Puncture wound with foreign body of left breast, sequela"
+53,53,5353,41,2021-04-22 13:14:17,2021-05-19 13:14:17,Complete,8.6,"Burkitt lymphoma, lymph nodes of multiple sites"
+53,96,5396,41,2021-05-11 00:30:21,null,Incomplete,null,null
+53,101,53101,41,2021-05-24 23:29:56,2021-06-19 23:29:56,Complete,3.9,Subluxation and dislocation of patella
+53,119,53119,41,2021-06-14 05:32:31,2021-07-08 05:32:31,Complete,1.1,Pnctr w fb of unsp lesser toe(s) w/o damage to nail
+53,127,53127,41,2021-08-12 00:52:45,null,Incomplete,null,null
+53,141,53141,41,2021-07-16 04:02:14,2021-08-03 04:02:14,Incomplete,null,null
+53,165,53165,41,2021-04-07 14:07:40,2021-04-28 14:07:40,Complete,2.2,"Unsp inj extn/abdr musc/fasc/tend of thmb at forarm lv, init"
+53,174,53174,41,2021-05-12 17:17:42,2021-05-23 17:17:42,Complete,3.6,"Toxic effect of unsp inorganic substance, accidental, subs"
+54,5,545,5,2021-04-27 03:41:21,2021-05-22 03:41:21,Complete,7,"Other hypertrophic osteoarthropathy, left upper arm"
+54,34,5434,5,2021-05-07 16:42:44,2021-05-28 16:42:44,Complete,2.9,"Laceration of brachial artery, unspecified side, subs encntr"
+54,97,5497,5,2021-08-08 23:35:29,null,Incomplete,null,null
+54,125,54125,5,2021-04-14 08:24:18,2021-05-08 08:24:18,Complete,1.2,"Laceration of axillary artery, unspecified side, sequela"
+54,169,54169,5,2021-04-16 20:26:19,2021-05-10 20:26:19,Complete,3.1,"Laceration of superficial palmar arch of right hand, sequela"
+54,187,54187,5,2021-06-07 23:27:32,2021-07-01 23:27:32,Incomplete,null,null
+55,36,5536,34,2021-06-05 08:18:24,2021-06-17 08:18:24,Complete,6.5,"Other dislocation of right foot, initial encounter"
+55,107,55107,34,2021-05-08 07:08:27,null,Incomplete,null,null
+55,179,55179,34,2021-07-12 18:25:56,2021-08-06 18:25:56,Complete,3.2,"Disp fx of base of nk of l femr, 7thJ"
+56,40,5640,100,2021-03-08 16:32:21,null,Incomplete,null,null
+56,94,5694,100,2021-03-16 20:07:03,2021-04-02 20:07:03,Complete,9.4,"Accidental discharge of shotgun, subsequent encounter"
+56,111,56111,100,2021-04-17 11:46:26,2021-05-08 11:46:26,Complete,1.4,"Phakomatoses, not elsewhere classified"
+56,121,56121,100,2021-06-02 11:34:02,null,Incomplete,null,null
+56,167,56167,100,2021-03-25 04:08:24,2021-04-08 04:08:24,Complete,7.2,"Disp fx of shaft of 2nd MC bone, l hand, 7thD"
+57,22,5722,44,2021-03-23 02:36:57,2021-04-06 02:36:57,Incomplete,null,null
+57,69,5769,44,2021-05-11 05:04:40,null,Incomplete,null,null
+57,94,5794,44,2021-05-25 01:01:20,2021-06-08 01:01:20,Complete,6.2,"Post-traumatic stress disorder, unspecified"
+57,137,57137,44,2021-08-07 22:17:21,2021-09-02 22:17:21,Complete,5,"Malignant neoplasm of uterus, part unspecified"
+58,10,5810,30,2021-07-30 04:20:30,2021-08-27 04:20:30,Complete,8.2,Traumatic rupture of left radiocarpal ligament
+58,100,58100,30,2021-05-20 18:36:51,2021-06-05 18:36:51,Complete,9.5,"Conjunctival cysts, bilateral"
+58,116,58116,30,2021-04-13 17:12:18,2021-05-10 17:12:18,Complete,1.2,"Nondisp fx of medial phalanx of right lesser toe(s), sequela"
+58,164,58164,30,2021-07-15 06:02:52,null,Incomplete,null,null
+58,181,58181,30,2021-04-23 05:51:18,2021-05-22 05:51:18,Incomplete,null,null
+59,75,5975,65,2021-05-24 05:55:02,2021-06-08 05:55:02,Incomplete,null,null
+59,142,59142,65,2021-02-24 21:18:10,null,Incomplete,null,null
+59,186,59186,65,2021-05-04 11:51:00,2021-05-14 11:51:00,Incomplete,null,null
+59,197,59197,65,2021-08-08 14:52:27,null,Incomplete,null,null
+61,29,6129,9,2021-03-18 14:48:28,2021-04-07 14:48:28,Complete,6.3,"Oth fracture of oth metacarpal bone, init for opn fx"
+61,37,6137,9,2021-03-03 09:36:20,2021-03-17 09:36:20,Complete,5.6,"Occup of hv veh injured in collision w hv veh in traf, subs"
+61,153,61153,9,2021-08-08 13:18:12,2021-09-04 13:18:12,Incomplete,null,null
+62,5,625,25,2021-03-03 01:04:26,2021-03-13 01:04:26,Complete,7.8,26 weeks gestation of pregnancy
+62,146,62146,25,2021-05-14 09:28:42,null,Incomplete,null,null
+63,106,63106,97,2021-06-30 05:45:32,null,Incomplete,null,null
+63,115,63115,97,2021-06-28 12:15:41,null,Incomplete,null,null
+63,151,63151,97,2021-03-02 12:42:21,2021-03-23 12:42:21,Complete,6.6,"Nondisp seg fx shaft of r femr, 7thH"
+63,156,63156,97,2021-03-27 18:38:21,2021-04-25 18:38:21,Complete,4.8,Air embolism in the puerperium
+63,184,63184,97,2021-07-23 11:23:35,2021-08-19 11:23:35,Complete,1.5,"Strain of flexor musc/fasc/tend at forearm level, unsp arm"
+64,15,6415,2,2021-05-27 21:25:41,null,Incomplete,null,null
+64,19,6419,2,2021-05-25 20:46:05,2021-06-07 20:46:05,Complete,3.3,"Subluxation of right acromioclavicular joint, init encntr"
+64,55,6455,2,2021-04-12 06:26:25,2021-05-10 06:26:25,Complete,5.7,"Toxic effect of unsp gases, fumes and vapors, acc, sequela"
+64,59,6459,2,2021-08-21 08:30:01,2021-09-10 08:30:01,Incomplete,null,null
+64,150,64150,2,2021-06-19 21:36:39,2021-07-18 21:36:39,Complete,3.9,"Unspecified injury of stomach, subsequent encounter"
+64,152,64152,2,2021-06-27 13:03:23,2021-07-26 13:03:23,Complete,6.7,"Intentional self-harm by airgun, subsequent encounter"
+64,154,64154,2,2021-08-02 01:16:13,2021-08-24 01:16:13,Incomplete,null,null
+65,37,6537,22,2021-07-24 00:52:14,2021-08-19 00:52:14,Complete,5.4,"Nondisp fx of sternal end of left clavicle, init for clos fx"
+65,42,6542,22,2021-03-08 23:23:22,2021-03-20 23:23:22,Complete,6.6,"Inj muscle, fascia and tendon of right hip, sequela"
+65,54,6554,22,2021-03-04 08:26:30,2021-03-22 08:26:30,Complete,9.8,"Other dislocation of right patella, initial encounter"
+65,55,6555,22,2021-04-24 12:21:41,2021-05-23 12:21:41,Complete,9.6,"Toxic effect of ethanol, assault, initial encounter"
+65,70,6570,22,2021-06-18 12:03:29,2021-07-06 12:03:29,Complete,1.2,"Adverse effect of antithrombotic drugs, sequela"
+66,16,6616,20,2021-03-20 06:33:45,2021-04-07 06:33:45,Complete,1.9,Corrosion of first degree of unspecified axilla
+66,57,6657,20,2021-07-22 03:27:55,null,Incomplete,null,null
+66,154,66154,20,2021-05-08 20:06:26,2021-06-06 20:06:26,Incomplete,null,null
+67,5,675,48,2021-07-28 15:26:30,2021-08-13 15:26:30,Complete,5.3,"Displ intertroch fx unsp femr, 7thF"
+67,17,6717,48,2021-08-02 08:56:00,null,Incomplete,null,null
+67,38,6738,48,2021-04-17 14:08:36,2021-04-28 14:08:36,Incomplete,null,null
+67,40,6740,48,2021-06-11 12:57:59,2021-07-11 12:57:59,Incomplete,null,null
+67,110,67110,48,2021-04-09 19:29:18,2021-05-03 19:29:18,Complete,6.1,Fracture of subcondylar process of right mandible
+67,138,67138,48,2021-04-15 12:47:07,2021-04-26 12:47:07,Incomplete,null,null
+67,177,67177,48,2021-04-04 16:16:09,2021-04-21 16:16:09,Complete,1.2,"Contusion of sigmoid colon, sequela"
+68,33,6833,73,2021-05-03 10:35:20,2021-06-01 10:35:20,Incomplete,null,null
+68,78,6878,73,2021-03-26 02:56:04,2021-04-21 02:56:04,Complete,5.5,Other atelectasis of newborn
+68,92,6892,73,2021-02-24 19:46:50,2021-03-24 19:46:50,Incomplete,null,null
+68,132,68132,73,2021-08-17 11:24:11,2021-09-04 11:24:11,Complete,5.9,Secondary malignant neoplasm of left lung
+68,167,68167,73,2021-04-09 14:38:34,2021-04-22 14:38:34,Complete,9.5,"Ped w convey injured pick-up truck, pk-up/van, unsp, subs"
+69,14,6914,64,2021-06-02 13:49:00,2021-06-21 13:49:00,Complete,2.3,"Oth extrartic fx low end left rad, init for opn fx type I/2"
+69,31,6931,64,2021-08-12 09:13:38,2021-09-04 09:13:38,Complete,2,Acute cystitis
+69,45,6945,64,2021-03-04 17:57:06,2021-03-30 17:57:06,Complete,8.6,"Poisoning by hydantoin derivatives, assault, init encntr"
+69,70,6970,64,2021-08-01 05:21:18,2021-08-27 05:21:18,Incomplete,null,null
+71,7,717,91,2021-06-09 03:47:48,2021-07-03 03:47:48,Complete,2.9,"Xeroderma of unspecified eye, unspecified eyelid"
+71,44,7144,91,2021-03-07 15:51:27,2021-03-27 15:51:27,Complete,6.5,Other and unspecified disorders of male genital organs
+71,57,7157,91,2021-03-10 22:49:14,2021-03-22 22:49:14,Complete,5.8,Encounter for screening for osteoporosis
+71,96,7196,91,2021-05-02 17:48:50,null,Incomplete,null,null
+71,129,71129,91,2021-08-06 01:35:21,2021-08-24 01:35:21,Complete,2.6,"Lesion of sciatic nerve, bilateral lower limbs"
+71,139,71139,91,2021-04-06 17:58:46,2021-05-02 17:58:46,Complete,2.7,"Nondisp artic fx head of l femr, 7thD"
+72,40,7240,61,2021-05-04 10:06:13,2021-05-23 10:06:13,Complete,6.5,Major osseous defect
+72,120,72120,61,2021-04-18 16:48:37,null,Incomplete,null,null
+73,46,7346,67,2021-08-20 15:11:02,2021-08-30 15:11:02,Complete,5.7,Meningococcal retrobulbar neuritis
+73,72,7372,67,2021-03-12 00:46:22,null,Incomplete,null,null
+73,89,7389,67,2021-05-05 05:34:50,2021-05-28 05:34:50,Incomplete,null,null
+73,129,73129,67,2021-02-21 21:26:47,2021-03-12 21:26:47,Incomplete,null,null
+73,160,73160,67,2021-06-10 01:21:39,null,Incomplete,null,null
+73,168,73168,67,2021-04-28 06:31:33,2021-05-18 06:31:33,Complete,1.8,"Hereditary nephropathy, NEC w dense deposit disease"
+74,2,742,54,2021-04-10 22:35:22,2021-05-01 22:35:22,Complete,8.1,"Accidental discharge from unsp firearms or gun, init encntr"
+74,5,745,54,2021-06-13 16:07:14,2021-07-05 16:07:14,Complete,5.2,"Nondisp subtrochnt fx r femr, 7thJ"
+74,52,7452,54,2021-05-11 04:17:26,null,Incomplete,null,null
+74,137,74137,54,2021-03-20 16:57:55,2021-04-06 16:57:55,Incomplete,null,null
+74,175,74175,54,2021-05-28 21:59:15,2021-06-26 21:59:15,Incomplete,null,null
+75,55,7555,43,2021-06-02 16:47:51,null,Incomplete,null,null
+75,84,7584,43,2021-04-20 01:00:43,2021-05-13 01:00:43,Complete,3.1,"Nondisp fx of epiphy (separation) (upper) of r femr, 7thD"
+75,125,75125,43,2021-03-31 06:23:33,2021-04-19 06:23:33,Incomplete,null,null
+75,163,75163,43,2021-05-30 05:34:09,2021-06-14 05:34:09,Complete,6.7,"Unsp injury of unsp wrist, hand and finger(s), sequela"
+75,175,75175,43,2021-05-02 02:21:44,2021-05-28 02:21:44,Complete,8.7,"Puncture wound with foreign body of right forearm, sequela"
+75,191,75191,43,2021-07-13 01:47:14,null,Incomplete,null,null
+76,15,7615,74,2021-07-04 02:07:00,2021-07-27 02:07:00,Complete,3.1,"Skeletal fluorosis, left shoulder"
+76,38,7638,74,2021-04-12 17:03:02,2021-05-06 17:03:02,Complete,7.6,Exposure to excessive cold of man-made origin
+76,86,7686,74,2021-06-02 06:44:47,2021-07-02 06:44:47,Complete,8.6,Nonobstructive reflux-associated chronic pyelonephritis
+76,144,76144,74,2021-02-22 14:40:28,2021-03-24 14:40:28,Complete,7.3,"Unsp traum displ spondylolysis of 7th cervcal vert, 7thD"
+77,49,7749,38,2021-05-16 08:28:12,2021-06-14 08:28:12,Complete,1.9,"Poisoning by anticholinesterase agents, assault"
+77,90,7790,38,2021-08-06 14:44:27,null,Incomplete,null,null
+78,12,7812,85,2021-08-13 07:29:15,2021-09-12 07:29:15,Incomplete,null,null
+78,84,7884,85,2021-07-17 14:52:16,2021-08-02 14:52:16,Complete,9.4,Adhes due to fb acc left in body following infusn/transfusn
+78,116,78116,85,2021-03-14 02:22:04,2021-04-10 02:22:04,Incomplete,null,null
+78,126,78126,85,2021-07-11 14:46:39,2021-08-02 14:46:39,Complete,3,Granuloma annulare
+78,138,78138,85,2021-04-25 03:11:54,2021-05-14 03:11:54,Complete,10,Superficial foreign body of other finger
+78,154,78154,85,2021-04-27 00:35:06,2021-05-08 00:35:06,Complete,6.9,Burns of other specified parts of unspecified eye and adnexa
+79,20,7920,10,2021-02-20 09:24:27,2021-03-08 09:24:27,Complete,5.8,"Vesicoureteral-reflux, unspecified"
+79,52,7952,10,2021-03-30 10:26:15,2021-04-25 10:26:15,Complete,8.6,"Primary osteoarthritis, right wrist"
+79,57,7957,10,2021-03-27 19:31:53,2021-04-15 19:31:53,Complete,2.7,Other fracture of upper end of humerus
+79,76,7976,10,2021-06-04 02:38:34,2021-06-17 02:38:34,Complete,2.9,History of uterine scar from previous surgery
+79,83,7983,10,2021-04-21 06:24:33,2021-05-14 06:24:33,Complete,7.4,"Sltr-haris Type IV physl fx lower end rad, right arm, sqla"
+79,100,79100,10,2021-03-14 22:02:50,2021-03-25 22:02:50,Complete,9.7,"Path fx in oth disease, l hand, subs for fx w routn heal"
+80,40,8040,100,2021-03-13 16:32:21,2021-03-26 16:32:21,Complete,6.5,"Other osteonecrosis, multiple sites"
+80,109,80109,100,2021-07-02 15:30:30,2021-07-17 15:30:30,Complete,6.5,"Epidural hemorrhage w LOC of unsp duration, sequela"
+80,111,80111,100,2021-04-17 11:46:26,2021-05-08 11:46:26,Incomplete,null,null
+80,148,80148,100,2021-07-23 06:23:08,2021-08-21 06:23:08,Incomplete,null,null
+80,167,80167,100,2021-03-22 04:08:24,2021-04-17 04:08:24,Complete,6.8,"Nondisp fx of med phalanx of l rng fngr, 7thP"
+81,44,8144,74,2021-07-31 07:24:16,2021-08-10 07:24:16,Complete,7.3,Unsp pedl cyclst injured in clsn w nonmtr vehicle in traf
+81,86,8186,74,2021-06-03 06:44:47,2021-06-30 06:44:47,Incomplete,null,null
+82,14,8214,25,2021-03-11 10:35:11,2021-03-29 10:35:11,Complete,9.8,"Commercial fixed-wing aircraft crash injuring occupant, init"
+82,146,82146,25,2021-05-29 09:28:42,2021-06-17 09:28:42,Complete,9.5,"Traum rupt of palmar ligmt of r lit fngr at MCP/IP jt, sqla"
+83,22,8322,44,2021-04-05 02:36:57,null,Incomplete,null,null
+83,69,8369,44,2021-05-23 05:04:40,null,Incomplete,null,null
+83,94,8394,44,2021-05-19 01:01:20,2021-06-02 01:01:20,Complete,6.2,Radiculopathy
+83,137,83137,44,2021-07-29 22:17:21,2021-08-21 22:17:21,Complete,7.6,Burn of first degree of female genital region
+84,112,84112,99,2021-07-17 10:19:11,2021-08-09 10:19:11,Complete,9.1,Mech compl of other cardiac electronic device
+84,148,84148,99,2021-08-07 10:36:51,null,Incomplete,null,null
+84,183,84183,99,2021-06-19 14:53:06,2021-07-06 14:53:06,Complete,6.9,Unspecified esotropia
+85,17,8517,68,2021-04-15 02:57:51,2021-04-25 02:57:51,Complete,2.1,"Milt op involving oth explosn and fragments, milt, sequela"
+85,90,8590,68,2021-05-03 16:45:31,null,Incomplete,null,null
+85,126,85126,68,2021-05-01 16:54:22,2021-05-15 16:54:22,Complete,5.5,"Corros first deg of unsp site right lower limb, ex ank/ft"
+86,37,8637,22,2021-07-28 00:52:14,null,Incomplete,null,null
+86,46,8646,22,2021-04-23 22:24:42,2021-05-20 22:24:42,Complete,4.8,"Senile entropion of unspecified eye, unspecified eyelid"
+86,54,8654,22,2021-03-12 08:26:30,2021-03-30 08:26:30,Complete,1.9,"Unsp inj musc/tend peroneal grp at lower leg level, unsp leg"
+86,61,8661,22,2021-06-03 03:56:49,2021-06-29 03:56:49,Complete,5,"Disp fx of nk of scapula, unsp shldr, subs for fx w nonunion"
+86,70,8670,22,2021-06-23 12:03:29,2021-07-05 12:03:29,Complete,7.3,"Unstable burst fracture of T7-T8 vertebra, init for opn fx"
+87,47,8747,8,2021-06-14 07:19:30,2021-07-02 07:19:30,Complete,8.3,"Toxic effect of 2-Propanol, assault"
+87,73,8773,8,2021-03-26 13:30:49,2021-04-08 13:30:49,Incomplete,null,null
+87,122,87122,8,2021-04-14 22:53:48,2021-05-12 22:53:48,Complete,9.4,"Laceration of intrinsic msl/tnd at ank/ft level, unsp foot"
+87,152,87152,8,2021-08-07 16:21:27,2021-09-01 16:21:27,Incomplete,null,null
+87,191,87191,8,2021-07-27 06:46:14,2021-08-11 06:46:14,Complete,3.5,"Lesion of femoral nerve, unspecified lower limb"
+88,10,8810,47,2021-06-23 21:33:15,2021-07-12 21:33:15,Incomplete,null,null
+88,152,88152,47,2021-07-10 05:24:05,2021-07-30 05:24:05,Complete,1.7,"Inj extn musc/fasc/tend r idx fngr at wrs/hnd lv, sequela"
+88,179,88179,47,2021-08-17 07:03:30,null,Incomplete,null,null
+89,100,89100,63,2021-04-03 18:27:07,2021-04-18 18:27:07,Complete,6.2,"Subluxation of metacarpophalangeal joint of left thumb, init"
+90,107,90107,92,2021-06-06 17:16:56,2021-06-19 17:16:56,Incomplete,null,null
+90,142,90142,92,2021-02-28 16:53:17,2021-03-22 16:53:17,Complete,7.4,Mechanical ectropion of eyelid
+91,94,9194,100,2021-03-05 20:07:03,2021-03-29 20:07:03,Complete,9.2,Malignant neoplasm of subglottis
+91,109,91109,100,2021-06-26 15:30:30,2021-07-14 15:30:30,Complete,5.7,Traumatic rupture of unsp ligament of finger at MCP/IP jt
+91,121,91121,100,2021-05-24 11:34:02,2021-06-04 11:34:02,Complete,9.8,"Heat fatigue, transient, subsequent encounter"
+91,148,91148,100,2021-07-26 06:23:08,2021-08-06 06:23:08,Complete,9.9,Triploidy and polyploidy
+92,35,9235,77,2021-03-09 20:54:04,2021-03-30 20:54:04,Incomplete,null,null
+92,55,9255,77,2021-05-20 08:19:32,2021-05-31 08:19:32,Complete,7.9,Gout
+92,93,9293,77,2021-03-18 16:58:22,null,Incomplete,null,null
+93,14,9314,98,2021-03-27 04:45:40,2021-04-17 04:45:40,Complete,9.5,"Explosn of mine place dur war op but expld aft, milt, sqla"
+93,89,9389,98,2021-06-29 17:16:33,2021-07-19 17:16:33,Complete,9.2,"Displaced spiral fracture of shaft of left tibia, sequela"
+93,101,93101,98,2021-08-11 17:22:50,2021-08-27 17:22:50,Complete,3.8,Oth stimulant abuse w intoxication w perceptual disturbance
+93,139,93139,98,2021-07-19 15:43:53,null,Incomplete,null,null
+93,173,93173,98,2021-07-30 20:58:47,2021-08-26 20:58:47,Incomplete,null,null
+93,181,93181,98,2021-08-04 11:49:57,2021-08-30 11:49:57,Complete,6.7,Fracture of unspecified part of body of left mandible
+94,83,9483,24,2021-07-15 01:04:28,2021-08-05 01:04:28,Complete,9.4,"Occ of stcar injured in derail w/o antecedent clsn, init"
+94,101,94101,24,2021-07-06 17:16:22,2021-07-22 17:16:22,Complete,5.9,"Cataract secondary to ocular disorders, right eye"
+95,29,9529,9,2021-03-19 14:48:28,2021-04-07 14:48:28,Incomplete,null,null
+95,145,95145,9,2021-08-04 20:14:39,2021-08-26 20:14:39,Complete,7.8,"Burn of third degree of unsp thumb (nail), init encntr"
+95,153,95153,9,2021-08-22 13:18:12,null,Incomplete,null,null
+96,49,9649,7,2021-05-07 06:21:17,2021-05-23 06:21:17,Complete,3.9,Newborn affected by intrauterine (fetal) blood loss
+96,67,9667,7,2021-06-28 09:11:30,2021-07-28 09:11:30,Incomplete,null,null
+97,25,9725,45,2021-06-08 23:21:58,2021-06-21 23:21:58,Complete,6.4,Accidental discharge of shotgun
+97,80,9780,45,2021-08-02 20:56:15,2021-08-17 20:56:15,Complete,6.9,"Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,subs"
+97,125,97125,45,2021-07-15 20:09:28,2021-08-06 20:09:28,Incomplete,null,null
+97,149,97149,45,2021-06-07 07:57:06,2021-06-26 07:57:06,Incomplete,null,null
+97,162,97162,45,2021-07-02 14:45:51,2021-07-31 14:45:51,Complete,4.3,"Displ osteochon fx unsp patella, 7thF"
+98,10,9810,80,2021-04-09 19:34:00,2021-04-26 19:34:00,Complete,4.9,"Nondisp fx of med condyle of l femr, 7thH"
+98,83,9883,80,2021-02-26 12:14:40,2021-03-12 12:14:40,Incomplete,null,null
+98,110,98110,80,2021-07-31 10:37:47,2021-08-21 10:37:47,Complete,1.2,"Poisoning by other bacterial vaccines, assault, subs encntr"
+99,93,9993,35,2021-06-21 07:59:26,2021-07-12 07:59:26,Complete,4.4,Contact with hot food
+99,182,99182,35,2021-08-13 21:30:49,2021-09-08 21:30:49,Complete,2.7,"Nondisplaced Zone III fracture of sacrum, init for clos fx"
+100,18,10018,69,2021-05-17 08:40:00,2021-06-14 08:40:00,Complete,2.4,Anal low risk human papillomavirus (HPV) DNA test positive
+100,20,10020,69,2021-05-02 12:42:47,2021-05-20 12:42:47,Complete,7.1,Non-bullous impetigo
+100,49,10049,69,2021-03-30 07:50:12,2021-04-09 07:50:12,Incomplete,null,null
+100,54,10054,69,2021-05-22 16:32:14,2021-06-16 16:32:14,Complete,2.4,Chronic venous hypertension w ulcer and inflammation
+101,23,10123,75,2021-03-13 18:29:22,2021-04-09 18:29:22,Complete,8.2,Other stimulant dependence with intoxication
+101,179,101179,75,2021-06-13 12:08:21,2021-07-11 12:08:21,Incomplete,null,null
+101,188,101188,75,2021-04-18 18:31:16,2021-05-18 18:31:16,Incomplete,null,null
+102,42,10242,22,2021-03-23 23:23:22,2021-04-16 23:23:22,Complete,3.9,Other developmental disorders of speech and language
+102,46,10246,22,2021-04-26 22:24:42,2021-05-15 22:24:42,Complete,8.7,"Inj intrns musc/fasc/tend r little fngr at wrs/hnd lv, init"
+102,55,10255,22,2021-04-25 12:21:41,2021-05-25 12:21:41,Complete,3.8,Theater (live) as place
+102,61,10261,22,2021-05-27 03:56:49,2021-06-24 03:56:49,Incomplete,null,null
+103,55,10355,34,2021-07-07 05:09:17,null,Incomplete,null,null
+103,129,103129,34,2021-04-08 18:06:06,2021-05-06 18:06:06,Incomplete,null,null
+104,105,104105,3,2021-08-17 20:41:51,2021-09-13 20:41:51,Complete,9.9,"Other infection due to central venous catheter, subs encntr"
+104,145,104145,3,2021-06-21 19:11:30,2021-07-12 19:11:30,Complete,4.4,"Disp fx of post wall of unsp acetab, subs for fx w nonunion"
+105,18,10518,53,2021-06-09 01:25:49,2021-06-20 01:25:49,Complete,3.2,Malignant neoplasm of transverse colon
+105,94,10594,53,2021-07-11 19:34:33,2021-08-09 19:34:33,Complete,6.1,Prostatic coccidioidomycosis
+105,120,105120,53,2021-03-14 06:11:30,2021-04-03 06:11:30,Complete,7.8,"Open bite of left ring finger w damage to nail, subs encntr"
+106,15,10615,75,2021-04-04 14:01:01,null,Incomplete,null,null
+106,87,10687,75,2021-04-15 10:31:33,2021-04-30 10:31:33,Complete,9,"Breakdown of femoral arterial graft (bypass), sequela"
+106,179,106179,75,2021-06-24 12:08:21,2021-07-21 12:08:21,Complete,7,"Unsp intracap fx unsp femr, 7thE"
+106,192,106192,75,2021-03-22 23:08:23,2021-04-08 23:08:23,Complete,3.3,"Sunburn, unspecified"
+107,5,1075,90,2021-08-08 16:09:30,2021-08-18 16:09:30,Complete,7.6,"Unsp disp fx of fifth cervical vertebra, init for clos fx"
+107,8,1078,90,2021-06-25 22:44:38,2021-07-17 22:44:38,Complete,2.7,"Other calcification of muscle, right thigh"
+107,63,10763,90,2021-06-27 11:30:28,2021-07-15 11:30:28,Complete,9.6,"Assault by other specified explosive, subsequent encounter"
+109,10,10910,80,2021-04-25 19:34:00,2021-05-24 19:34:00,Complete,3.7,"Self-harm by jumping or lying in front of mtr veh, init"
+109,83,10983,80,2021-02-23 12:14:40,2021-03-20 12:14:40,Complete,5.4,Unsp pedal cyclist injured in collision w 2/3-whl mv in traf
+109,110,109110,80,2021-08-09 10:37:47,2021-09-02 10:37:47,Complete,3.5,"Inj flexor musc/fasc/tend unsp finger at forearm level, subs"
+110,11,11011,15,2021-05-26 06:58:15,null,Incomplete,null,null
+110,43,11043,15,2021-04-20 06:42:20,null,Incomplete,null,null
+110,109,110109,15,2021-03-31 15:08:25,2021-04-18 15:08:25,Complete,3.1,"Disp fx of low epiphy (separation) of unsp femr, 7thN"
+110,122,110122,15,2021-04-18 20:38:24,2021-05-02 20:38:24,Incomplete,null,null
+110,136,110136,15,2021-04-22 11:48:07,null,Incomplete,null,null
+110,159,110159,15,2021-07-30 00:09:57,2021-08-24 00:09:57,Complete,6.5,Encounter for adjust and management of implanted hear dev
+110,164,110164,15,2021-06-13 19:01:45,2021-06-29 19:01:45,Complete,6.2,"Abrasion of right middle finger, sequela"
+110,192,110192,15,2021-06-04 18:30:49,2021-06-25 18:30:49,Complete,8.9,"Toxic effect of sulfur dioxide, accidental, subs"
+111,23,11123,75,2021-03-28 18:29:22,null,Incomplete,null,null
+111,87,11187,75,2021-04-21 10:31:33,2021-05-14 10:31:33,Incomplete,null,null
+111,188,111188,75,2021-05-05 18:31:16,2021-05-15 18:31:16,Complete,4.6,"Unspecified open wound of right shoulder, subs encntr"
+111,192,111192,75,2021-03-15 23:08:23,2021-04-05 23:08:23,Complete,8.1,"Toxic effect of homologues of benzene, self-harm, subs"
+112,56,11256,7,2021-08-05 05:58:07,2021-09-03 05:58:07,Incomplete,null,null
+112,67,11267,7,2021-07-07 09:11:30,2021-08-02 09:11:30,Complete,8.4,"Nondisp bimalleol fx l low leg, subs for clos fx w nonunion"
+113,16,11316,20,2021-03-15 06:33:45,2021-04-03 06:33:45,Incomplete,null,null
+113,92,11392,20,2021-07-06 18:05:07,2021-07-16 18:05:07,Complete,8.2,"Dislocation of distal radioulnar joint of right wrist, subs"
+113,154,113154,20,2021-05-15 20:06:26,2021-06-06 20:06:26,Complete,5.9,Squamous cell carcinoma skin/ unsp ear and extrn auric canal
+114,11,11411,15,2021-06-12 06:58:15,2021-06-28 06:58:15,Complete,8,"Displ spiral fx shaft of ulna, unsp arm, 7thD"
+114,43,11443,15,2021-04-20 06:42:20,2021-05-17 06:42:20,Complete,3.5,"Oth disrd of middle ear and mastoid, bilateral"
+114,109,114109,15,2021-04-02 15:08:25,2021-04-30 15:08:25,Complete,9.3,"Toxic effect of glycols, undetermined, sequela"
+114,122,114122,15,2021-04-09 20:38:24,2021-04-27 20:38:24,Complete,4.2,Burn of first degree of unspecified shoulder
+114,136,114136,15,2021-04-30 11:48:07,2021-05-16 11:48:07,Complete,8.8,"Unsp inj less saphenous at lower leg level, left leg, init"
+114,159,114159,15,2021-08-01 00:09:57,2021-08-24 00:09:57,Complete,3,"Anterior subluxation of left ulnohumeral joint, sequela"
+114,164,114164,15,2021-06-02 19:01:45,2021-06-27 19:01:45,Complete,4.5,"Prem separtn of placenta w oth coag defect, first trimester"
+114,192,114192,15,2021-06-24 18:30:49,2021-07-14 18:30:49,Incomplete,null,null
+115,126,115126,35,2021-03-16 22:36:00,2021-03-30 22:36:00,Incomplete,null,null
+116,106,116106,97,2021-07-04 05:45:32,2021-07-28 05:45:32,Complete,5.7,"Unsp car occupant injured in clsn w oth mv nontraf, init"
+116,150,116150,97,2021-04-03 09:57:00,2021-04-30 09:57:00,Complete,7.5,"Corrosion of second degree of right scapular region, sequela"
+116,151,116151,97,2021-03-16 12:42:21,2021-04-08 12:42:21,Incomplete,null,null
+116,182,116182,97,2021-03-04 21:50:39,2021-04-02 21:50:39,Complete,3.4,"Oth fx upr & low end l fibula, 7thH"
+116,184,116184,97,2021-07-30 11:23:35,null,Incomplete,null,null
+117,14,11714,25,2021-03-24 10:35:11,2021-04-16 10:35:11,Complete,7.2,"Pedl cyc driver inj in clsn w nonmtr vehicle in traf, init"
+117,166,117166,25,2021-07-17 16:06:11,2021-08-11 16:06:11,Complete,3.8,"Bloodstream infection due to central venous catheter, subs"
+118,32,11832,28,2021-07-02 02:28:16,2021-07-23 02:28:16,Complete,3.8,"Sltr-haris Type IV physeal fx lower end of right tibia, init"
+118,92,11892,28,2021-06-19 23:01:21,2021-07-14 23:01:21,Complete,4,"Superficial foreign body, right lesser toe(s)"
+118,95,11895,28,2021-07-28 19:42:20,null,Incomplete,null,null
+118,100,118100,28,2021-07-09 10:48:40,null,Incomplete,null,null
+118,133,118133,28,2021-07-07 02:10:49,2021-08-06 02:10:49,Incomplete,null,null
+118,159,118159,28,2021-07-09 01:33:22,null,Incomplete,null,null
+119,80,11980,66,2021-04-23 23:26:31,2021-05-17 23:26:31,Complete,5.6,"Fall into unsp water causing drowning and submersion, init"
+119,145,119145,66,2021-06-17 01:54:40,2021-07-02 01:54:40,Complete,9,"Noninflammatory disorder of vagina, unspecified"
+119,160,119160,66,2021-04-01 04:25:49,2021-04-11 04:25:49,Complete,7.4,Obstruction of bile duct
+120,47,12047,47,2021-06-22 16:18:08,2021-07-04 16:18:08,Complete,7.9,Postproc hemor of a circ sys org following cardiac bypass
+120,152,120152,47,2021-07-20 05:24:05,2021-08-13 05:24:05,Complete,6.5,"Calcifcn and ossifictn of muscles associated w burns, hand"
+120,193,120193,47,2021-05-18 02:04:05,2021-06-15 02:04:05,Complete,4.7,"Corrosion of unsp degree of trunk, unsp site, init encntr"
+121,44,12144,25,2021-05-21 09:21:10,2021-06-20 09:21:10,Complete,8.9,"Sltr-haris Type IV physl fx upper end radius, unsp arm, init"
+121,166,121166,25,2021-07-11 16:06:11,2021-08-01 16:06:11,Complete,2.9,"Nondisp fx of shaft of r clavicle, subs for fx w malunion"
+122,33,12233,44,2021-03-13 20:24:20,null,Incomplete,null,null
+122,89,12289,44,2021-06-27 20:01:56,null,Incomplete,null,null
+122,100,122100,44,2021-07-24 01:03:44,2021-08-18 01:03:44,Complete,3,"Poisoning by predom beta-adrenocpt agonists, self-harm, subs"
+122,164,122164,44,2021-08-14 05:15:17,2021-08-26 05:15:17,Incomplete,null,null
+123,47,12347,47,2021-06-17 16:18:08,2021-07-02 16:18:08,Complete,9.8,Cardiac arrest following incomplete spontaneous abortion
+123,155,123155,47,2021-07-09 12:09:26,2021-08-05 12:09:26,Incomplete,null,null
+123,193,123193,47,2021-05-11 02:04:05,2021-06-09 02:04:05,Incomplete,null,null
+124,7,1247,72,2021-02-23 23:51:06,2021-03-15 23:51:06,Complete,8.7,"Other blood donor, whole blood"
+124,62,12462,72,2021-05-23 08:25:53,2021-06-08 08:25:53,Complete,7.1,"Asphyxiation due to plastic bag, accidental"
+124,90,12490,72,2021-08-13 00:23:02,2021-08-26 00:23:02,Incomplete,null,null
+124,113,124113,72,2021-04-21 22:06:07,2021-05-14 22:06:07,Incomplete,null,null
+124,170,124170,72,2021-07-14 15:11:48,2021-08-02 15:11:48,Complete,2.2,Corrosion of first degree of unspecified toe(s) (nail)
+124,192,124192,72,2021-03-07 16:26:45,2021-03-28 16:26:45,Complete,9.3,Mammographic calcifcn found on diagnostic imaging of breast
+125,126,125126,35,2021-03-21 22:36:00,2021-04-18 22:36:00,Complete,3.9,"Toxic effect of homologues of benzene, self-harm, sequela"
+126,18,12618,26,2021-05-18 04:51:09,2021-06-08 04:51:09,Incomplete,null,null
+126,23,12623,26,2021-08-18 08:03:16,2021-08-31 08:03:16,Complete,6,"Undrdose of crbnc-anhydr inhibtr, benzo/oth diuretc, sequela"
+127,55,12755,87,2021-04-16 12:26:40,2021-05-02 12:26:40,Incomplete,null,null
+127,118,127118,87,2021-02-27 21:55:50,2021-03-27 21:55:50,Complete,5.3,"Unsp B-cell lymphoma, nodes of ing region and lower limb"
+127,174,127174,87,2021-07-07 02:51:10,null,Incomplete,null,null
+127,191,127191,87,2021-08-05 20:43:38,2021-08-16 20:43:38,Complete,5.5,"Subluxation of MCP joint of right ring finger, subs"
+129,29,12929,56,2021-08-08 14:08:31,null,Incomplete,null,null
+129,69,12969,56,2021-08-29 18:02:38,2021-09-19 18:02:38,Incomplete,null,null
+129,76,12976,56,2021-08-01 01:16:35,2021-08-31 01:16:35,Complete,9.8,Laceration of other blood vessels at forearm level
+129,107,129107,56,2021-08-02 11:00:45,2021-08-26 11:00:45,Incomplete,null,null
+129,192,129192,56,2021-06-15 19:17:32,2021-07-14 19:17:32,Complete,6.3,"Sextuplets, some liveborn"
+130,18,13018,26,2021-05-14 04:51:09,2021-06-09 04:51:09,Incomplete,null,null
+130,126,130126,26,2021-05-10 06:26:59,2021-06-09 06:26:59,Complete,7.5,"Oth fx shaft of right femur, init for opn fx type 3A/B/C"
+131,5,1315,5,2021-04-28 03:41:21,2021-05-28 03:41:21,Complete,4.6,Herpes simplex myelitis
+131,57,13157,5,2021-02-27 07:22:20,2021-03-11 07:22:20,Complete,1,"Other chronic osteomyelitis, left radius and ulna"
+131,97,13197,5,2021-08-09 23:35:29,2021-08-25 23:35:29,Complete,5.6,"Poisoning by pyrazolone derivatives, accidental"
+131,135,131135,5,2021-02-21 19:13:06,2021-03-17 19:13:06,Complete,1.4,"Puncture wound without foreign body of right elbow, sequela"
+131,169,131169,5,2021-04-17 20:26:19,2021-04-28 20:26:19,Complete,5.9,"Nondisp fx of proximal phalanx of l thm, init for opn fx"
+131,196,131196,5,2021-04-12 20:32:33,null,Incomplete,null,null
+132,64,13264,29,2021-02-28 08:49:12,null,Incomplete,null,null
+132,82,13282,29,2021-03-17 18:00:20,2021-04-01 18:00:20,Complete,5.2,"Nondisp fx of med condyle of unsp tibia, 7thC"
+132,156,132156,29,2021-03-08 16:18:44,2021-03-26 16:18:44,Incomplete,null,null
+132,180,132180,29,2021-04-26 15:58:36,2021-05-15 15:58:36,Incomplete,null,null
+133,123,133123,81,2021-03-15 16:45:54,2021-04-13 16:45:54,Complete,4,"Exposure to smoke in controlled fire in bldg, subs"
+134,175,134175,70,2021-05-25 06:21:02,null,Incomplete,null,null
+135,47,13547,37,2021-03-16 03:20:20,2021-04-07 03:20:20,Complete,4.1,"Oth injury of unsp tibial artery, unspecified leg, sequela"
+135,107,135107,37,2021-03-28 07:56:15,2021-04-13 07:56:15,Incomplete,null,null
+135,127,135127,37,2021-06-19 10:52:16,2021-07-13 10:52:16,Incomplete,null,null
+135,138,135138,37,2021-08-05 09:16:58,2021-08-21 09:16:58,Incomplete,null,null
+135,145,135145,37,2021-07-19 03:59:39,null,Incomplete,null,null
+135,154,135154,37,2021-08-07 16:52:31,2021-09-04 16:52:31,Incomplete,null,null
+137,7,1377,91,2021-06-18 03:47:48,2021-06-29 03:47:48,Incomplete,null,null
+137,44,13744,91,2021-03-08 15:51:27,null,Incomplete,null,null
+137,57,13757,91,2021-03-14 22:49:14,null,Incomplete,null,null
+137,96,13796,91,2021-04-29 17:48:50,2021-05-29 17:48:50,Incomplete,null,null
+137,129,137129,91,2021-08-05 01:35:21,2021-08-16 01:35:21,Complete,4.6,Kitchen on military base as place
+137,139,137139,91,2021-04-01 17:58:46,null,Incomplete,null,null
+138,48,13848,88,2021-07-18 04:19:38,2021-08-09 04:19:38,Complete,8,"Chronic embolism and thrombosis of subclav vein, bilateral"
+138,67,13867,88,2021-06-11 01:24:27,2021-07-03 01:24:27,Incomplete,null,null
+139,55,13955,43,2021-05-24 16:47:51,2021-06-17 16:47:51,Incomplete,null,null
+139,84,13984,43,2021-04-24 01:00:43,2021-05-22 01:00:43,Complete,2.4,"Nondisp fx of lateral condyle of l femr, 7thN"
+139,125,139125,43,2021-03-14 06:23:33,2021-04-09 06:23:33,Incomplete,null,null
+139,163,139163,43,2021-05-29 05:34:09,2021-06-19 05:34:09,Complete,7.3,Embolism and thrombosis of superfic veins of right low extrm
+139,175,139175,43,2021-05-05 02:21:44,2021-05-27 02:21:44,Complete,3.1,"Serous choroidal detachment, right eye"
+139,191,139191,43,2021-07-18 01:47:14,null,Incomplete,null,null
+140,64,14064,88,2021-07-07 13:08:59,2021-08-06 13:08:59,Complete,4.3,"Ulcerative colitis, unspecified with other complication"
+140,74,14074,88,2021-07-12 02:12:02,null,Incomplete,null,null
+141,80,14180,66,2021-04-16 23:26:31,null,Incomplete,null,null
+141,145,141145,66,2021-06-11 01:54:40,2021-06-30 01:54:40,Complete,9.4,"Strain extn musc/fasc/tend l idx fngr at wrs/hnd lv, subs"
+141,160,141160,66,2021-04-09 04:25:49,2021-04-19 04:25:49,Complete,8.8,"Nondisp oblique fx shaft of l fibula, 7thJ"
+143,33,14333,32,2021-08-21 01:53:47,2021-09-02 01:53:47,Complete,5.8,"Tox eff of nitro and oth nitric acids and esters, acc, subs"
+143,106,143106,32,2021-08-05 15:13:42,2021-09-03 15:13:42,Complete,4.8,Acute maxillary sinusitis
+143,116,143116,32,2021-04-11 09:23:13,2021-04-21 09:23:13,Complete,3.8,"Contact with recreational machinery, sequela"
+143,127,143127,32,2021-08-01 07:51:10,2021-08-17 07:51:10,Complete,4.4,"Disp fx of neck of metacarpal bone, subs for fx w nonunion"
+143,155,143155,32,2021-08-03 13:08:25,2021-08-15 13:08:25,Complete,3.3,"Oth injury of peroneal artery, right leg, subs encntr"
+144,38,14438,74,2021-04-01 17:03:02,2021-04-15 17:03:02,Complete,6,"Torus fracture of upper end of unspecified ulna, sequela"
+144,44,14444,74,2021-08-09 07:24:16,2021-09-01 07:24:16,Complete,8.8,"Poisoning by oth drug/meds/biol subst, undetermined, init"
+144,144,144144,74,2021-02-23 14:40:28,2021-03-20 14:40:28,Incomplete,null,null
+145,16,14516,84,2021-06-24 09:00:38,null,Incomplete,null,null
+145,31,14531,84,2021-04-22 22:30:14,2021-05-04 22:30:14,Incomplete,null,null
+145,75,14575,84,2021-03-11 19:20:59,2021-04-01 19:20:59,Complete,1.8,Episodic cluster headache
+145,92,14592,84,2021-03-26 05:31:05,2021-04-25 05:31:05,Complete,7.1,Pressure ulcer of left buttock
+146,113,146113,92,2021-03-27 09:42:46,2021-04-18 09:42:46,Complete,9.2,"Unsp open wound of unsp finger with damage to nail, sequela"
+147,199,147199,39,2021-06-02 16:03:15,null,Incomplete,null,null
+148,21,14821,52,2021-07-31 05:06:16,2021-08-21 05:06:16,Incomplete,null,null
+148,73,14873,52,2021-08-02 14:29:56,2021-08-29 14:29:56,Complete,2,"Low-tension glaucoma, right eye, mild stage"
+148,129,148129,52,2021-03-13 11:25:12,2021-03-28 11:25:12,Incomplete,null,null
+148,135,148135,52,2021-08-16 22:53:42,2021-09-04 22:53:42,Complete,8.4,"Disp fx of lateral epicondyl of unsp humer, 7thG"
+148,140,148140,52,2021-04-30 07:11:45,2021-05-10 07:11:45,Complete,8.5,"Bitten by other nonvenomous marine animals, subs encntr"
+150,49,15049,78,2021-03-04 07:33:50,2021-03-18 07:33:50,Incomplete,null,null
+151,122,151122,27,2021-02-18 19:05:23,2021-02-28 19:05:23,Complete,1.1,"Nondisplaced midcervical fracture of unsp femur, init"
+151,127,151127,27,2021-07-06 01:35:00,2021-07-17 01:35:00,Complete,2.5,"Displ suprcndl fx w intrcndl extn low end unsp femr, 7thJ"
+151,178,151178,27,2021-07-19 04:08:38,2021-08-09 04:08:38,Complete,2.3,Primary hypotony of right eye
+152,55,15255,34,2021-06-24 05:09:17,null,Incomplete,null,null
+152,129,152129,34,2021-03-31 18:06:06,2021-04-11 18:06:06,Complete,5,Cyst of epididymis
+153,50,15350,80,2021-03-11 23:04:13,null,Incomplete,null,null
+153,97,15397,80,2021-07-22 10:44:37,2021-08-01 10:44:37,Incomplete,null,null
+153,157,153157,80,2021-07-07 18:32:07,2021-08-03 18:32:07,Incomplete,null,null
+154,62,15462,19,2021-06-08 13:32:12,2021-06-18 13:32:12,Complete,2.8,"Sltr-haris Type I physl fx upr end rad, unsp arm, 7thP"
+154,102,154102,19,2021-07-09 11:09:55,2021-07-25 11:09:55,Complete,6.9,"Fall (on)(from) incline, sequela"
+154,103,154103,19,2021-07-31 19:50:15,2021-08-23 19:50:15,Complete,3.4,"Poisn by oth antacids and anti-gstrc-sec drugs, acc, init"
+154,107,154107,19,2021-07-15 03:53:45,null,Incomplete,null,null
+154,176,154176,19,2021-06-06 16:37:51,2021-06-23 16:37:51,Complete,9.2,Contusion of left lower leg
+154,200,154200,19,2021-04-17 16:23:04,2021-05-05 16:23:04,Complete,9.5,"Passenger in hv veh injured in clsn w pedl cyc nontraf, init"
+155,1,1551,86,2021-06-11 17:12:58,null,Incomplete,null,null
+155,29,15529,86,2021-06-28 12:45:56,2021-07-27 12:45:56,Complete,3.8,"Oth injury of muscle, fascia and tendon of triceps, left arm"
+155,122,155122,86,2021-06-05 03:26:18,2021-06-20 03:26:18,Complete,9,"Corrosion of third degree of unsp scapular region, subs"
+155,161,155161,86,2021-05-06 02:50:59,2021-06-02 02:50:59,Incomplete,null,null
+156,10,15610,30,2021-07-29 04:20:30,2021-08-28 04:20:30,Complete,9.1,"Displ spiral fx shaft of rad, unsp arm, 7thG"
+156,100,156100,30,2021-05-21 18:36:51,2021-06-07 18:36:51,Incomplete,null,null
+156,116,156116,30,2021-04-03 17:12:18,2021-04-21 17:12:18,Complete,9.2,"Oth fx third MC bone, left hand, subs for fx w delay heal"
+156,164,156164,30,2021-07-21 06:02:52,2021-08-16 06:02:52,Complete,2.1,"Chondromalacia patellae, right knee"
+156,181,156181,30,2021-04-12 05:51:18,2021-04-25 05:51:18,Complete,8.1,"Legal intervnt w firearm disch, law enforc offl injured"
+157,4,1574,50,2021-07-22 08:05:24,2021-08-05 08:05:24,Complete,9,"Nondisp fx of less trochanter of r femr, 7thG"
+157,41,15741,50,2021-03-12 04:21:31,2021-03-24 04:21:31,Complete,1,"Jump/div into oth water strk wall causing oth injury, init"
+157,53,15753,50,2021-02-23 12:32:09,2021-03-19 12:32:09,Complete,2.9,Central cord syndrome at C7 level of cervical spinal cord
+157,137,157137,50,2021-03-30 17:59:38,2021-04-26 17:59:38,Complete,2.5,"Partial traumatic amputation of left midfoot, init encntr"
+157,163,157163,50,2021-03-26 08:36:33,null,Incomplete,null,null
+158,2,1582,54,2021-04-18 22:35:22,2021-05-13 22:35:22,Incomplete,null,null
+158,33,15833,54,2021-05-06 05:02:11,2021-05-19 05:02:11,Complete,4.1,Burn of second degree of lip(s)
+158,67,15867,54,2021-05-15 05:44:52,2021-06-08 05:44:52,Incomplete,null,null
+158,137,158137,54,2021-03-20 16:57:55,2021-04-12 16:57:55,Complete,8.8,Pneumoconiosis due to other inorganic dusts
+158,192,158192,54,2021-03-02 04:37:55,2021-03-20 04:37:55,Complete,7.5,"Poisn by unsp agents prim acting on the resp sys, self-harm"
+159,123,159123,82,2021-07-29 12:13:27,2021-08-26 12:13:27,Complete,5.8,"Laceration of unsp musc/tend at lower leg level, right leg"
+159,128,159128,82,2021-03-30 04:17:59,2021-04-09 04:17:59,Complete,6.2,"Corrosion of cornea and conjunctival sac, right eye"
+159,158,159158,82,2021-03-16 01:31:58,2021-03-28 01:31:58,Complete,7.3,"Other intervertebral disc disorders, thoracic region"
+159,167,159167,82,2021-06-17 00:01:59,2021-07-04 00:01:59,Complete,5.9,"Toxic effect of phenol and phenol homologues, assault, subs"
+159,200,159200,82,2021-02-20 03:55:30,2021-03-15 03:55:30,Complete,1.4,"Oth fx unsp patella, 7thF"
+160,105,160105,79,2021-08-12 16:54:53,2021-09-06 16:54:53,Incomplete,null,null
+161,110,161110,47,2021-07-06 22:51:33,2021-08-01 22:51:33,Incomplete,null,null
+161,155,161155,47,2021-06-20 12:09:26,2021-07-01 12:09:26,Complete,9.8,"Osteonecrosis due to drugs, unspecified femur"
+162,124,162124,79,2021-02-19 22:10:30,2021-03-15 22:10:30,Incomplete,null,null
+163,14,16314,14,2021-04-12 09:31:53,null,Incomplete,null,null
+163,29,16329,14,2021-03-17 20:48:23,2021-04-01 20:48:23,Complete,6.3,"Unsp superficial injury of right index finger, sequela"
+163,61,16361,14,2021-05-22 01:10:35,null,Incomplete,null,null
+163,87,16387,14,2021-08-01 03:33:12,null,Incomplete,null,null
+163,113,163113,14,2021-03-06 03:50:28,2021-03-17 03:50:28,Complete,3.4,"Nondisp seg fx shaft of unsp fibula, 7thN"
+163,123,163123,14,2021-08-14 04:50:20,2021-08-29 04:50:20,Complete,1.1,"Burn second degree of head, face, and neck, unsp site, sqla"
+164,113,164113,92,2021-03-14 09:42:46,2021-03-30 09:42:46,Complete,4.9,Displaced bicondylar fracture of right tibia
+165,53,16553,41,2021-04-27 13:14:17,2021-05-10 13:14:17,Complete,6.3,"Strain of unsp msl/tnd at ank/ft level, left foot, init"
+165,96,16596,41,2021-04-23 00:30:21,2021-05-14 00:30:21,Complete,2.3,"Nondisp spiral fx shaft of unsp fibula, 7thG"
+165,101,165101,41,2021-05-17 23:29:56,2021-06-06 23:29:56,Complete,2,"Abrasion of lip, sequela"
+165,119,165119,41,2021-06-01 05:32:31,2021-06-22 05:32:31,Incomplete,null,null
+165,127,165127,41,2021-08-15 00:52:45,null,Incomplete,null,null
+165,141,165141,41,2021-07-17 04:02:14,2021-08-08 04:02:14,Complete,5.7,"Adolescent idiopathic scoliosis, cervicothoracic region"
+165,165,165165,41,2021-04-08 14:07:40,2021-04-21 14:07:40,Complete,3.6,"Unsp subluxation of unsp sternoclavicular joint, init encntr"
+165,174,165174,41,2021-04-29 17:17:42,null,Incomplete,null,null
+166,5,1665,48,2021-07-29 15:26:30,2021-08-12 15:26:30,Complete,5.6,"Sublux of proximal interphaln joint of r mid finger, subs"
+166,17,16617,48,2021-07-26 08:56:00,2021-08-15 08:56:00,Complete,5.5,"Corros unsp deg mult left fingers (nail), inc thumb, init"
+166,38,16638,48,2021-04-14 14:08:36,2021-05-10 14:08:36,Complete,7.9,"Nondisp simple suprcndl fx w/o intrcndl fx l humerus, init"
+166,40,16640,48,2021-06-12 12:57:59,2021-06-28 12:57:59,Complete,7.7,"Poisoning by iron and its compounds, undetermined, sequela"
+166,110,166110,48,2021-03-30 19:29:18,null,Incomplete,null,null
+166,138,166138,48,2021-04-08 12:47:07,2021-04-24 12:47:07,Incomplete,null,null
+166,177,166177,48,2021-04-17 16:16:09,2021-05-07 16:16:09,Complete,8.8,"Handgun discharge, undetermined intent, initial encounter"
+167,25,16725,45,2021-06-19 23:21:58,2021-07-01 23:21:58,Complete,5.4,"Nondisp avulsion fx unsp ischium, subs for fx w nonunion"
+167,101,167101,45,2021-07-12 11:44:15,null,Incomplete,null,null
+167,125,167125,45,2021-07-02 20:09:28,2021-07-25 20:09:28,Incomplete,null,null
+167,154,167154,45,2021-04-07 06:41:41,2021-04-28 06:41:41,Complete,5.6,"Leakage of indwelling urethral catheter, initial encounter"
+167,162,167162,45,2021-07-09 14:45:51,null,Incomplete,null,null
+168,50,16850,80,2021-03-14 23:04:13,2021-04-11 23:04:13,Complete,9.7,"Calcaneal spur, right foot"
+168,97,16897,80,2021-07-19 10:44:37,2021-08-06 10:44:37,Complete,8.8,Fracture of medial malleolus
+168,157,168157,80,2021-06-24 18:32:07,2021-07-16 18:32:07,Complete,3.7,"Unsp injury of radial artery at wrs/hnd lv of left arm, init"
+169,9,1699,17,2021-07-17 12:27:55,2021-08-07 12:27:55,Complete,3,"Sprain of the superior tibiofibul joint and ligmt, unsp knee"
+169,50,16950,17,2021-08-09 22:11:22,null,Incomplete,null,null
+169,68,16968,17,2021-03-17 04:58:14,null,Incomplete,null,null
+169,180,169180,17,2021-05-11 18:21:52,2021-06-06 18:21:52,Complete,9.3,Fracture of unspecified part of left clavicle
+170,57,17057,1,2021-05-09 08:04:35,null,Incomplete,null,null
+170,62,17062,1,2021-06-29 08:05:04,2021-07-15 08:05:04,Complete,2,Unspecified fracture of ilium
+170,152,170152,1,2021-06-03 00:47:12,2021-06-27 00:47:12,Complete,9.8,"Alcohol use, unsp w alcoh-induce psych disorder w delusions"
+170,199,170199,1,2021-03-06 11:03:06,null,Incomplete,null,null
+171,68,17168,57,2021-07-29 23:35:29,null,Incomplete,null,null
+171,121,171121,57,2021-06-21 13:41:06,2021-07-10 13:41:06,Incomplete,null,null
+171,127,171127,57,2021-03-20 12:33:10,null,Incomplete,null,null
+171,149,171149,57,2021-05-10 15:24:45,null,Incomplete,null,null
+172,123,172123,81,2021-03-29 16:45:54,null,Incomplete,null,null
+173,56,17356,56,2021-07-10 21:57:27,null,Incomplete,null,null
+173,69,17369,56,2021-08-24 18:02:38,2021-09-22 18:02:38,Complete,3.7,Lacerat extn musc/fasc/tend r little finger at wrs/hnd lv
+173,106,173106,56,2021-04-27 08:59:40,null,Incomplete,null,null
+173,107,173107,56,2021-07-28 11:00:45,2021-08-13 11:00:45,Complete,6.6,"Unsp inj msl/tnd lng flxr msl of toe at ank/ft level, r foot"
+173,196,173196,56,2021-04-03 07:10:29,2021-04-14 07:10:29,Incomplete,null,null
+174,33,17433,44,2021-03-10 20:24:20,null,Incomplete,null,null
+174,89,17489,44,2021-06-28 20:01:56,2021-07-20 20:01:56,Complete,2.6,Other specified disorders of iris and ciliary body
+174,100,174100,44,2021-08-09 01:03:44,2021-09-06 01:03:44,Complete,1.4,"Fracture of unsp phalanx of left middle finger, sequela"
+174,164,174164,44,2021-08-26 05:15:17,2021-09-07 05:15:17,Complete,8.1,"Pathological fracture in other disease, left femur, sequela"
+175,32,17532,33,2021-02-21 22:05:16,2021-03-03 22:05:16,Complete,5.5,"Coma scale, eyes open, never"
+175,37,17537,33,2021-06-17 13:16:28,null,Incomplete,null,null
+175,177,175177,33,2021-07-30 21:25:42,2021-08-09 21:25:42,Incomplete,null,null
+175,187,175187,33,2021-05-29 08:58:26,2021-06-17 08:58:26,Complete,3.5,Monoplg upr lmb fol ntrm subarach hemor aff right dom side
+176,44,17644,25,2021-05-27 09:21:10,2021-06-25 09:21:10,Complete,8.4,"Displ seg fx shaft of l tibia, 7thJ"
+177,22,17722,17,2021-04-16 14:31:41,null,Incomplete,null,null
+177,52,17752,17,2021-03-24 21:42:53,2021-04-22 21:42:53,Incomplete,null,null
+177,124,177124,17,2021-05-28 10:12:53,2021-06-09 10:12:53,Complete,3.9,Maternal care for transverse and oblique lie
+178,119,178119,3,2021-07-25 17:07:47,2021-08-11 17:07:47,Complete,8.6,"Poisoning by antidiarrheal drugs, self-harm, init"
+178,145,178145,3,2021-06-07 19:11:30,2021-06-21 19:11:30,Complete,5.8,Laceration w/o fb of l mid finger w/o damage to nail
+179,68,17968,73,2021-04-13 00:16:51,null,Incomplete,null,null
+179,78,17978,73,2021-03-27 02:56:04,2021-04-07 02:56:04,Complete,5.4,"Peripheral pterygium, stationary, unspecified eye"
+179,128,179128,73,2021-03-05 01:50:04,2021-03-24 01:50:04,Complete,8.5,Cerebral infarction due to thrombosis of l verteb art
+179,132,179132,73,2021-08-08 11:24:11,2021-08-26 11:24:11,Incomplete,null,null
+180,135,180135,99,2021-03-30 01:05:26,null,Incomplete,null,null
+180,148,180148,99,2021-08-19 10:36:51,2021-09-06 10:36:51,Complete,6.9,"Oth fx shaft of unsp ulna, 7thJ"
+181,23,18123,26,2021-08-08 08:03:16,2021-08-18 08:03:16,Complete,2.8,Chagas' disease (chronic) with digestive system involvement
+181,126,181126,26,2021-04-25 06:26:59,2021-05-19 06:26:59,Complete,7.3,"Unspecified subluxation of left little finger, init encntr"
+182,115,182115,97,2021-07-08 12:15:41,2021-07-25 12:15:41,Incomplete,null,null
+182,150,182150,97,2021-03-22 09:57:00,2021-04-21 09:57:00,Complete,6.7,"Osteochondropathy, unspecified multiple sites"
+182,156,182156,97,2021-03-23 18:38:21,null,Incomplete,null,null
+182,182,182182,97,2021-02-19 21:50:39,null,Incomplete,null,null
+183,37,18337,9,2021-02-24 09:36:20,2021-03-18 09:36:20,Complete,2,"Fall from playground swing, sequela"
+183,145,183145,9,2021-07-21 20:14:39,2021-08-01 20:14:39,Complete,3.8,Disorders of porphyrin and bilirubin metabolism
+183,169,183169,9,2021-08-07 17:06:02,2021-08-17 17:06:02,Complete,1.5,"Laceration of brachial artery, left side, subs encntr"
+184,50,18450,20,2021-04-01 13:03:52,2021-04-19 13:03:52,Incomplete,null,null
+184,92,18492,20,2021-07-21 18:05:07,null,Incomplete,null,null
+184,189,184189,20,2021-08-19 06:11:33,null,Incomplete,null,null
+185,22,18522,17,2021-04-15 14:31:41,2021-05-06 14:31:41,Complete,4.1,"Stress fracture, right tibia, subs for fx w routn heal"
+185,52,18552,17,2021-03-30 21:42:53,2021-04-21 21:42:53,Complete,2.1,"Nondisp fx of 4th metatarsal bone, l foot, init for opn fx"
+185,124,185124,17,2021-05-24 10:12:53,2021-06-07 10:12:53,Complete,4.3,"Stable burst fx T11-T12 vertebra, subs for fx w nonunion"
+186,38,18638,60,2021-07-02 09:41:58,2021-07-28 09:41:58,Complete,9.2,Lateral subluxation of right ulnohumeral joint
+186,137,186137,60,2021-07-18 04:28:02,null,Incomplete,null,null
+186,142,186142,60,2021-06-13 11:39:56,null,Incomplete,null,null
+186,189,186189,60,2021-03-31 02:21:18,2021-04-30 02:21:18,Incomplete,null,null
+187,64,18764,88,2021-07-07 13:08:59,null,Incomplete,null,null
+187,74,18774,88,2021-07-07 02:12:02,2021-08-04 02:12:02,Complete,5.4,"Lac w fb of l frnt wl of thorax w penet thor cavity, subs"
+188,7,1887,50,2021-05-31 14:29:08,2021-06-23 14:29:08,Incomplete,null,null
+188,41,18841,50,2021-03-16 04:21:31,2021-04-15 04:21:31,Complete,5.3,"Oth superfic bite of unsp extrn gntl organs, male, sequela"
+188,86,18886,50,2021-07-29 00:30:28,2021-08-25 00:30:28,Complete,4.2,"Strain of unsp musc/fasc/tend at thi lev, unsp thigh, subs"
+188,137,188137,50,2021-03-26 17:59:38,2021-04-11 17:59:38,Complete,7.1,"Unsp fx unsp patella, subs for opn fx type I/2 w malunion"
+188,175,188175,50,2021-07-29 08:32:26,2021-08-26 08:32:26,Complete,3.7,"Brown-Sequard syndrome at C5, subs"
+189,89,18989,42,2021-07-06 04:32:43,2021-07-19 04:32:43,Complete,7.7,Unspecified injury of kidney
+189,149,189149,42,2021-05-04 10:37:54,2021-05-16 10:37:54,Complete,7.7,"Complete physeal arrest, right distal radius"
+190,80,19080,45,2021-07-22 20:56:15,2021-08-20 20:56:15,Complete,1.4,"Other specified disorders of cornea, unspecified eye"
+190,101,190101,45,2021-07-05 11:44:15,null,Incomplete,null,null
+190,149,190149,45,2021-06-12 07:57:06,2021-07-01 07:57:06,Complete,3,"Burn of first degree of left foot, sequela"
+190,154,190154,45,2021-04-12 06:41:41,2021-04-27 06:41:41,Complete,5.7,"Nondisp comminuted fracture of shaft of radius, unsp arm"
+191,10,19110,31,2021-06-08 11:04:28,2021-06-24 11:04:28,Complete,3.8,"Drug/chem diab with mild nonp rtnop with mclr edema, l eye"
+191,34,19134,31,2021-04-14 20:56:05,2021-05-01 20:56:05,Complete,1.6,"Nondisp longitud fx r patella, subs for clos fx w malunion"
+191,94,19194,31,2021-06-29 11:20:20,null,Incomplete,null,null
+192,98,19298,32,2021-04-17 18:41:37,null,Incomplete,null,null
+192,106,192106,32,2021-08-08 15:13:42,2021-09-06 15:13:42,Complete,6.6,"Low weight gain in pregnancy, third trimester"
+192,116,192116,32,2021-04-12 09:23:13,2021-05-06 09:23:13,Incomplete,null,null
+192,127,192127,32,2021-07-29 07:51:10,2021-08-20 07:51:10,Complete,2.4,"Corrosion of first degree of left axilla, initial encounter"
+192,155,192155,32,2021-08-05 13:08:25,2021-08-15 13:08:25,Incomplete,null,null
+193,34,19334,5,2021-04-24 16:42:44,2021-05-20 16:42:44,Complete,8.7,"Pnctr w/o fb of l idx fngr w/o damage to nail, init"
+193,57,19357,5,2021-02-28 07:22:20,2021-03-18 07:22:20,Incomplete,null,null
+193,125,193125,5,2021-04-04 08:24:18,2021-04-23 08:24:18,Complete,7.8,"Disp fx of body of left talus, subs for fx w nonunion"
+193,135,193135,5,2021-02-15 19:13:06,2021-03-06 19:13:06,Complete,3.2,"Unsp intcrn inj w LOC w death d/t brain inj bf consc, sqla"
+193,187,193187,5,2021-06-16 23:27:32,2021-07-09 23:27:32,Complete,2.2,Injury due to collapse of burning bldg in uncontrolled fire
+193,196,193196,5,2021-04-09 20:32:33,2021-04-29 20:32:33,Incomplete,null,null
+194,34,19434,13,2021-04-30 15:42:39,2021-05-30 15:42:39,Incomplete,null,null
+194,80,19480,13,2021-06-20 00:10:23,2021-06-30 00:10:23,Complete,5.9,"Occup of 3-whl mv inj in clsn w nonmtr vehicle in traf, subs"
+194,82,19482,13,2021-03-17 07:26:01,2021-04-10 07:26:01,Complete,2.2,"Oth soft tissue disord related to use/pressure, left thigh"
+194,173,194173,13,2021-05-12 00:56:20,2021-06-03 00:56:20,Complete,4.8,Other diseases of pharynx
+195,29,19529,96,2021-06-18 07:52:15,2021-07-05 07:52:15,Incomplete,null,null
+195,30,19530,96,2021-05-31 17:02:42,2021-06-22 17:02:42,Complete,4.8,"Forced landing of balloon injuring occupant, init encntr"
+195,63,19563,96,2021-08-12 02:16:20,2021-08-24 02:16:20,Complete,9,"Unspecified injury of left hip, sequela"
+195,113,195113,96,2021-05-06 09:17:57,2021-05-30 09:17:57,Complete,7.6,"Contusion of right upper arm, initial encounter"
+195,162,195162,96,2021-06-07 08:15:05,null,Incomplete,null,null
+197,105,197105,25,2021-07-16 23:42:18,2021-07-27 23:42:18,Complete,10,"Oth osteopor w crnt path fx, l hand, subs for fx w nonunion"
+198,12,19812,46,2021-06-24 20:59:40,2021-07-21 20:59:40,Incomplete,null,null
+198,91,19891,46,2021-03-25 03:11:15,2021-04-17 03:11:15,Incomplete,null,null
+198,118,198118,46,2021-05-31 10:47:09,2021-06-23 10:47:09,Incomplete,null,null
+198,124,198124,46,2021-07-31 08:26:55,2021-08-25 08:26:55,Complete,4.8,Displaced longitudinal fracture of right patella
+198,151,198151,46,2021-07-05 20:40:38,null,Incomplete,null,null
+199,15,19915,2,2021-06-04 21:25:41,2021-06-19 21:25:41,Complete,7.3,Struck by tennis racquet
+199,19,19919,2,2021-05-20 20:46:05,2021-06-14 20:46:05,Incomplete,null,null
+199,55,19955,2,2021-04-20 06:26:25,2021-05-19 06:26:25,Complete,3.3,Macrocheilia
+199,59,19959,2,2021-08-20 08:30:01,null,Incomplete,null,null
+199,150,199150,2,2021-06-18 21:36:39,2021-06-30 21:36:39,Incomplete,null,null
+199,152,199152,2,2021-07-09 13:03:23,2021-08-02 13:03:23,Complete,2,"Blister (nonthermal) of unsp part of head, init encntr"
+199,154,199154,2,2021-07-19 01:16:13,2021-07-31 01:16:13,Incomplete,null,null
+200,40,20040,61,2021-05-14 10:06:13,2021-06-05 10:06:13,Complete,4.9,"External constriction of unspecified finger, subs encntr"
+200,120,200120,61,2021-04-05 16:48:37,2021-04-23 16:48:37,Complete,2.8,"Oth injury of deep palmar arch of right hand, init encntr"

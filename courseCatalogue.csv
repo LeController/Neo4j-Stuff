@@ -1,0 +1,101 @@
+courseId,title,courseDescription,createdAt,updatedAt,courseDuration,price,language,difficultyLevel,teacherId,timediff
+1,Statistics,"Nondisplaced Maisonneuve's fracture of right leg, subsequent encounter for closed fracture with malunion",2021-01-11 06:49:19,2021-05-28 14:45:38,155,500,Thai,beginner,27,FALSE
+2,Programming,"Other physeal fracture of upper end of humerus, left arm, initial encounter for closed fracture",2021-01-17 07:42:53,null,237,800,English,intermediate,59,FALSE
+3,Digital Marketing,Macula scars of posterior pole (postinflammatory) (post-traumatic),2021-03-26 09:52:41,null,145,350,Thai,intermediate,9,FALSE
+4,Business Administration,"Other subluxation of right shoulder joint, subsequent encounter",2021-03-15 18:08:11,null,155,300,English,expert,22,FALSE
+5,eBusiness,"Alcohol use, unspecified",2021-01-16 20:45:19,null,274,400,English,intermediate,12,FALSE
+6,Programming,"Other fracture of upper end of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",2021-01-16 20:45:19,2021-05-31 23:00:13,101,800,Thai,intermediate,5,FALSE
+7,Project Management,"Displaced apophyseal fracture of left femur, subsequent encounter for open fracture type I or II with routine healing",2021-05-30 23:34:35,2021-06-09 04:53:00,269,300,Thai,expert,53,FALSE
+8,Business Administration,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter",2021-01-19 10:15:46,null,69,400,English,beginner,22,FALSE
+9,Database Management,"Complete lesion at unspecified level of thoracic spinal cord, initial encounter",2021-04-04 19:08:10,2021-06-30 21:58:01,240,500,English,expert,33,FALSE
+10,Financial & Investment,"Stress fracture, hand and fingers",2021-01-01 18:33:21,null,70,350,English,expert,59,FALSE
+11,Digital Marketing,"Other specified injury of dorsal vein of unspecified foot, initial encounter",2021-03-20 19:57:20,null,117,450,Hindi,beginner,23,FALSE
+12,Business Administration,"Fall due to collision between unspecified watercraft and other watercraft or other object, sequela",2021-03-27 07:40:08,2021-04-24 08:34:14,229,500,English,intermediate,13,FALSE
+13,Business Administration,Open bite of other finger without damage to nail,2021-03-31 21:15:24,2021-04-13 21:48:26,83,350,English,expert,49,FALSE
+14,eBusiness,"Bent bone of left ulna, subsequent encounter for open fracture type I or II with delayed healing",2021-06-05 23:46:28,2021-06-28 23:28:45,182,450,English,beginner,10,FALSE
+15,Machine Learning,"Fracture of unspecified part of neck of unspecified femur, initial encounter for closed fracture",2021-03-14 21:20:44,2021-05-04 10:37:27,149,800,Thai,intermediate,55,FALSE
+16,Business Strategy,"Partial loss of teeth due to periodontal diseases, class IV",2021-05-25 01:11:12,2021-06-10 01:07:19,275,350,English,beginner,55,FALSE
+17,Database Management,"Toxic effect of lacrimogenic gas, assault, sequela",2021-04-21 23:30:56,2021-05-14 09:41:17,78,800,English,beginner,18,FALSE
+18,eBusiness,Cutaneous and mucocutaneous bartonellosis,2021-03-30 21:56:45,2021-05-14 09:41:17,278,450,Hindi,expert,40,FALSE
+19,Machine Learning,Alcoholism and drug addiction in family,2021-01-11 00:54:13,2021-03-27 20:20:04,64,400,Thai,beginner,5,FALSE
+20,Database Management,"Driver of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, sequela",2021-02-16 15:20:20,2021-05-28 14:18:07,151,500,English,beginner,17,FALSE
+21,Business Administration,Traumatic subdural hemorrhage,2021-06-13 17:18:11,2021-06-25 10:02:57,123,450,Hindi,expert,30,FALSE
+22,Project Management,"Postural kyphosis, thoracic region",2021-05-17 03:08:02,2021-06-25 10:02:57,112,500,Thai,beginner,39,FALSE
+23,UX/UI,"Obstructed labor due to shoulder presentation, other fetus",2021-01-12 20:42:42,2021-03-25 13:08:17,72,450,Thai,intermediate,57,FALSE
+24,UX/UI,"Unspecified injury of unspecified muscles, fascia and tendons at forearm level, unspecified arm, sequela",2021-04-17 02:33:05,2021-06-17 23:15:05,256,450,English,intermediate,25,FALSE
+25,eBusiness,"Salter-Harris Type III physeal fracture of upper end of humerus, left arm, subsequent encounter for fracture with routine healing",2021-04-12 11:20:28,2021-06-17 23:15:05,252,400,English,expert,23,FALSE
+26,Digital Marketing,"Struck by falling object on other unpowered watercraft, subsequent encounter",2021-02-17 07:17:15,2021-02-21 21:16:38,61,800,English,beginner,44,FALSE
+27,Digital Marketing,Unspecified physeal fracture of phalanx of unspecified toe,2021-05-25 18:31:26,2021-06-17 23:15:05,86,500,Thai,expert,19,FALSE
+28,Business Administration,Other congenital malformations of ear,2021-04-19 07:12:36,2021-05-31 01:30:44,38,300,English,beginner,52,FALSE
+29,Digital Marketing,"Strain of unspecified muscle, fascia and tendon at wrist and hand level, left hand, initial encounter",2021-03-03 14:09:03,2021-04-13 21:48:26,187,350,English,intermediate,25,FALSE
+30,Financial & Investment,"Pedestrian injured in traffic accident involving military vehicle, subsequent encounter",2021-02-14 06:13:38,2021-03-16 00:54:45,120,400,English,expert,48,FALSE
+31,Statistics,"Poisoning by antiparkinsonism drugs and other central muscle-tone depressants, assault, initial encounter",2021-04-21 09:33:30,2021-06-05 14:34:14,272,400,Thai,beginner,32,FALSE
+32,eBusiness,"Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",2021-01-29 21:32:55,2021-04-15 07:53:30,205,400,English,beginner,4,FALSE
+33,Project Management,"Fall into unspecified water causing drowning and submersion, subsequent encounter",2021-03-09 19:24:26,2021-05-31 01:30:44,73,400,Thai,expert,6,FALSE
+34,Machine Learning,"Nondisplaced spiral fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with delayed healing",2021-05-04 14:54:48,2021-06-05 14:34:14,108,400,English,intermediate,33,FALSE
+35,Machine Learning,"Chronic periodontitis, generalized, moderate",2021-05-03 22:17:30,null,219,400,English,expert,4,FALSE
+36,UX/UI,"Burn of left eye and adnexa, part unspecified",2021-01-21 01:03:47,null,270,500,English,beginner,53,FALSE
+37,Business Strategy,Drug or chemical induced diabetes mellitus with other diabetic ophthalmic complication,2021-02-07 15:53:12,null,271,500,English,beginner,44,FALSE
+38,Digital Marketing,"Periprosthetic fracture around internal prosthetic left ankle joint, initial encounter",2021-04-06 22:28:40,2021-05-17 19:15:01,80,450,English,intermediate,44,FALSE
+39,Business Strategy,"Unspecified fracture of upper end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",2021-02-14 04:10:07,2021-03-16 00:54:45,179,300,Thai,intermediate,34,FALSE
+40,UX/UI,"Other bursitis of hip, left hip",2021-03-29 19:03:00,2021-04-15 07:53:30,275,800,English,beginner,34,FALSE
+41,Machine Learning,"Other fracture of upper end of left ulna, initial encounter for open fracture type I or II",2021-03-26 02:33:04,2021-06-09 04:53:00,89,800,English,expert,10,FALSE
+42,Programming,"Primary blast injury of lung, bilateral",2021-02-16 15:20:20,2021-06-17 23:15:05,289,300,English,expert,56,FALSE
+43,Financial & Investment,Pain in right shoulder,2021-02-03 01:34:35,2021-06-06 16:33:37,107,400,Thai,beginner,15,FALSE
+44,Financial & Investment,Postgastric surgery syndromes,2021-03-31 23:10:05,null,300,500,Thai,intermediate,10,FALSE
+45,Business Administration,"Pedal cycle driver injured in collision with unspecified motor vehicles in nontraffic accident, sequela",2021-04-07 00:36:59,2021-05-12 03:37:04,60,450,Hindi,intermediate,45,FALSE
+46,Statistics,Corrosions involving 40-49% of body surface with 0% to 9% third degree corrosion,2021-04-09 20:14:55,2021-05-17 15:31:31,245,500,English,beginner,15,FALSE
+47,Financial & Investment,"Dislocation of left acromioclavicular joint, 100%-200% displacement, initial encounter",2021-02-20 20:54:32,2021-04-08 13:29:33,70,500,Thai,intermediate,47,FALSE
+48,Digital Marketing,"Nondisplaced oblique fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",2021-01-30 05:35:52,2021-04-09 22:41:14,48,450,Hindi,intermediate,19,FALSE
+49,UX/UI,Crushing injury of right wrist,2021-02-05 18:49:03,2021-05-31 23:00:13,231,450,Hindi,expert,6,FALSE
+50,Database Management,"Injury of lumbosacral plexus, initial encounter",2021-05-03 04:43:42,2021-06-28 23:28:45,47,450,English,expert,2,FALSE
+51,Machine Learning,"Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 5",2021-05-05 18:49:58,2021-05-17 19:15:01,171,500,English,beginner,6,FALSE
+52,UX/UI,Periarthritis of wrist,2021-01-16 20:45:19,2021-02-05 14:19:40,288,800,Thai,intermediate,37,FALSE
+53,Database Management,"Salter-Harris Type I physeal fracture of left metatarsal, subsequent encounter for fracture with malunion",2021-04-10 23:18:21,2021-06-09 04:53:00,59,400,English,beginner,32,FALSE
+54,UX/UI,"Stress fracture, left shoulder",2021-03-09 22:07:54,2021-04-09 17:53:30,180,800,English,beginner,55,FALSE
+55,Financial & Investment,Other contact with other nonvenomous marine animals,2021-02-16 15:20:20,2021-04-09 17:53:30,106,300,Hindi,intermediate,11,FALSE
+56,Statistics,"Other physeal fracture of upper end of unspecified fibula, subsequent encounter for fracture with routine healing",2021-06-03 00:28:07,2021-06-07 14:11:55,47,350,English,beginner,4,FALSE
+57,Financial & Investment,Other hypertrophic osteoarthropathy,2021-05-12 08:03:17,2021-05-31 23:00:13,98,800,Thai,beginner,53,FALSE
+58,eBusiness,Unspecified open wound of left ring finger with damage to nail,2021-02-06 16:54:06,2021-06-28 23:28:45,229,500,English,expert,2,FALSE
+59,Business Administration,Type 2 diabetes mellitus with unspecified diabetic retinopathy,2021-03-09 22:07:54,2021-06-07 14:11:55,102,800,Hindi,intermediate,45,FALSE
+60,UX/UI,"Laceration with foreign body of left little finger without damage to nail, subsequent encounter",2021-05-04 04:43:53,2021-05-15 03:43:54,137,450,English,intermediate,56,FALSE
+61,Business Administration,"Burn of third degree of right hand, unspecified site, subsequent encounter",2021-04-13 00:38:02,2021-05-12 03:37:04,247,450,English,intermediate,4,FALSE
+62,UX/UI,"Encephalopathy, unspecified",2021-03-13 10:23:33,null,61,500,Thai,intermediate,3,FALSE
+63,Programming,Exposure to excessive heat of man-made origin,2021-05-07 12:04:49,null,244,500,English,intermediate,14,FALSE
+64,Statistics,Rapidly progressive nephritic syndrome with unspecified morphologic changes,2021-01-18 18:02:48,null,167,300,English,expert,48,FALSE
+65,Financial & Investment,"ABO incompatibility with acute hemolytic transfusion reaction, subsequent encounter",2021-03-21 08:48:14,2021-04-09 00:03:54,97,500,English,expert,49,FALSE
+66,Business Administration,"Other blood donor, other blood",2021-03-25 05:15:44,2021-06-10 01:07:19,95,500,English,intermediate,10,FALSE
+67,Digital Marketing,"Unspecified fracture of right pubis, initial encounter for closed fracture",2021-01-16 20:45:19,null,174,800,English,beginner,22,FALSE
+68,Database Management,"Blister (nonthermal) of right shoulder, sequela",2021-02-16 15:20:20,2021-04-02 11:31:21,37,300,Thai,beginner,51,FALSE
+69,eBusiness,Other schistosomiasis,2021-04-14 08:12:02,2021-05-15 03:43:54,224,300,Thai,beginner,28,FALSE
+70,Business Administration,Bitten by crocodile,2021-04-16 20:50:56,2021-05-14 09:41:17,109,800,English,intermediate,9,FALSE
+71,Programming,"Unspecified injury of posterior tibial artery, unspecified leg",2021-05-19 01:15:11,2021-06-21 13:30:10,92,800,Thai,beginner,8,FALSE
+72,Programming,"Nondisplaced fracture of fifth metatarsal bone, unspecified foot, subsequent encounter for fracture with malunion",2021-05-12 10:14:11,null,257,300,Hindi,expert,9,FALSE
+73,Business Administration,"Ulnar collateral ligament sprain of unspecified elbow, sequela",2021-02-13 03:38:49,2021-04-09 00:03:54,80,500,English,expert,50,FALSE
+74,Financial & Investment,"Salter-Harris Type III physeal fracture of lower end of unspecified femur, sequela",2021-05-23 18:00:36,2021-06-10 01:07:19,195,350,Thai,beginner,31,FALSE
+75,eBusiness,"Nondisplaced longitudinal fracture of left patella, subsequent encounter for closed fracture with delayed healing",2021-04-26 10:03:15,null,87,500,English,expert,5,FALSE
+76,Machine Learning,"Exposure to unspecified man-made visible and ultraviolet light, initial encounter",2021-04-10 21:45:06,2021-06-21 13:30:10,184,500,Thai,beginner,37,FALSE
+77,Database Management,"Corrosion of third degree of multiple sites of left lower limb, except ankle and foot, initial encounter",2021-03-09 22:07:54,2021-03-19 06:38:42,63,800,Thai,beginner,41,FALSE
+78,eBusiness,"Displaced fracture of head of left radius, subsequent encounter for closed fracture with routine healing",2021-05-20 19:10:43,2021-05-28 14:18:07,285,800,English,expert,4,FALSE
+79,Machine Learning,"Poisoning by opium, undetermined, initial encounter",2021-03-15 08:39:31,2021-04-30 05:31:46,234,800,Thai,intermediate,56,FALSE
+80,Financial & Investment,Catatonic schizophrenia,2021-06-09 04:08:57,2021-06-25 10:02:57,78,350,Hindi,intermediate,5,FALSE
+81,Statistics,Acute tonsillitis,2021-02-14 13:07:11,2021-03-19 06:38:42,197,450,Thai,expert,38,FALSE
+82,Financial & Investment,"Nondisplaced pilon fracture of unspecified tibia, subsequent encounter for closed fracture with malunion",2021-03-09 22:07:54,2021-04-22 21:54:11,129,350,English,beginner,10,FALSE
+83,Database Management,Atheroembolism of lower extremity,2021-03-18 21:53:12,2021-04-10 19:00:45,227,500,Thai,intermediate,25,FALSE
+84,Database Management,"Poisoning by succinimides and oxazolidinediones, assault, sequela",2021-03-29 06:23:47,2021-04-30 05:31:46,97,350,Thai,intermediate,51,FALSE
+85,Financial & Investment,"Displaced spiral fracture of shaft of radius, left arm, subsequent encounter for closed fracture with delayed healing",2021-03-21 19:25:39,2021-03-25 20:31:36,40,450,Hindi,expert,7,FALSE
+86,eBusiness,"Unspecified occupant of other special all-terrain or other off-road motor vehicle injured in traffic accident, subsequent encounter",2021-05-29 14:32:47,2021-05-30 15:57:06,290,400,English,beginner,52,FALSE
+87,Business Administration,"Chalcosis, bilateral",2021-03-26 15:12:23,2021-05-27 23:49:44,198,350,Thai,intermediate,26,FALSE
+88,Machine Learning,"External constriction of right eyelid and periocular area, subsequent encounter",2021-02-13 20:14:58,2021-04-02 03:22:16,225,350,Thai,expert,29,FALSE
+89,UX/UI,"Burn of unspecified degree of single right finger (nail) except thumb, sequela",2021-03-18 10:24:38,2021-03-25 20:31:36,57,800,Thai,intermediate,35,FALSE
+90,Project Management,"Other fracture of shaft of radius, left arm, initial encounter for open fracture type I or II",2021-03-13 11:40:01,null,203,500,Thai,intermediate,39,FALSE
+91,Programming,"Legal intervention involving injury by handgun, bystander injured, initial encounter",2021-04-17 17:47:22,2021-06-28 00:29:35,202,500,Thai,beginner,5,FALSE
+92,Digital Marketing,"Displacement of electronic bone stimulator, initial encounter",2021-05-08 05:02:32,null,288,400,Hindi,beginner,51,FALSE
+93,Machine Learning,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, subsequent encounter",2021-02-14 00:26:22,null,130,350,English,intermediate,19,FALSE
+94,eBusiness,"Surgical operation with formation of external stoma as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2021-01-19 15:07:57,2021-03-07 09:09:08,131,500,English,expert,24,FALSE
+95,Machine Learning,"Poisoning by diagnostic agents, assault",2021-03-02 03:52:20,2021-04-03 05:29:04,280,300,Hindi,beginner,51,FALSE
+96,Database Management,"Other specified bursopathies, left ankle and foot",2021-03-31 06:47:05,null,266,450,English,beginner,20,FALSE
+97,Programming,"Other fracture of head and neck of right femur, subsequent encounter for closed fracture with malunion",2021-02-10 19:58:32,2021-05-28 14:45:38,245,400,English,intermediate,20,FALSE
+98,Digital Marketing,"Nondisplaced fracture of olecranon process with intraarticular extension of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",2021-05-31 20:21:26,2021-06-09 15:02:11,282,500,Thai,intermediate,32,FALSE
+99,Machine Learning,"Toxic effect of venom of other reptiles, assault, sequela",2021-04-27 08:42:31,2021-05-01 14:56:49,75,400,Hindi,beginner,33,FALSE
+100,Project Management,Salter-Harris Type II physeal fracture of lower end of right fibula,2021-03-07 07:12:57,2021-03-25 07:35:07,277,450,Thai,beginner,34,FALSE
